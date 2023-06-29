@@ -1,0 +1,364 @@
+---
+title: "pstat131 final project"
+author: "David Hong"
+date: "2023-06-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This project mainly focuses on predicting the 2k ratings of past and current nba players. The higher the rating is for a player, the better the player is in the 2k game series, vice versa. The rating score is a continuous numerical variable that has several factors to be considered, such as field goal percent, free throw makes percent, and etc. This project is also going to analyze how important each factor is to the final prediction. 
+
+```{r}
+knitr::include_graphics("graph/graph1.jpeg")
+```
+
+# Preparation for the project
+This section mainly loads the necessary dataset(including cleaning) and required packages
+```{r,warning=FALSE,message=FALSE}
+library(tidymodels)
+library(tidyverse)
+library(glmnet)
+library(modeldata)
+library(ggthemes)
+library(corrplot)
+library(vip)
+library(janitor)
+library(kknn)
+library(dplyr)
+mydata <- read.csv("data/unprocessed/131dataset.csv")
+head(mydata)
+```
+
+There are several redundant variables in the dataset, such as season, field goal makes, field tries, free throw tries, etc. I will remove these redundant variables in case of overfitting(the variable field goal percent is field goal makes divded my field tries, and the numerator and denominators are simply not necessary). 
+
+```{r}
+mydata <- subset(mydata, select = -c(X,SEASON,FGM,FGA,X3PM,X3PA,FTM,FTA))
+plusminus<-mydata[,23]
+mydata <- mydata[,-c(23)]
+mydata$plusminus <- plusminus
+mydata <- subset(mydata, select = -c(FP))
+```
+
+```{r}
+mydata <- as_tibble(mydata) %>% 
+  clean_names()
+dim(mydata)
+```
+
+we can see that there are many observations and variables in the cleaned dataset, we also want to factorize the team because they are treated as categorical variable.
+
+```{r}
+mydata$team <- as.factor(mydata$team)
+
+write.csv(mydata,"data/processed/cleaneddata.csv",row.names=FALSE)
+```
+
+```{r}
+sum(is.na(mydata))
+```
+Luckily, we also do not have to worry about the na data in our dataset. 
+
+# Exploratory Data Analysis
+
+Firstly, we want to take a look at how the rankings are distributed 
+```{r}
+mydata %>%
+  ggplot(aes(rankings)) +
+  geom_bar() +
+  labs(
+    title = "Distribution of ratings"
+  )
+```
+
+It is easy for us to see that the majority of nba players fall in between 70-80. 
+
+we might also be interested in seeing the distribution of points, since one thing that most people care about is scoring. 
+
+```{r}
+mydata %>% 
+  ggplot(aes(pts)) +
+  geom_bar() +
+  labs(
+    title = "distribution of points"
+  )
+```
+
+We can kind of see that the scoring distribution has pretty much the same shape as the ratings do. It can be imagined that scoring is going to be an important factor. 
+
+Lastly, we are interested in seeing the heatmap between variables. 
+
+```{r}
+mydata %>% 
+  select(is.numeric) %>% 
+  cor() %>% 
+  corrplot()
+```
+It can be seen from the heat map points per game does have an important relationship with rankings. One of the flaws about the dataset is that turnovers and personal fouls are treated as positively related with rankings. This is wrong and biased. It might because that the higher the rating is, the more playing time the player is going to have and they are likely to commit fouls and turnovers. For the sake of accuracy of our predictions, it is for the best if we get rid of these two variables since they might add prejudice to our models. 
+
+```{r}
+mydata <- subset(mydata, select = -c(pf,tov))
+```
+
+```{r}
+mydata %>% 
+  select(is.numeric) %>% 
+  cor() %>% 
+  corrplot()
+```
+
+Now we can say that almost all of the variables contribute to the rankings for some extend. It can be seen that the points is highly correlated with rankings and three point percent is the least imporant one. In later recipe creation, i am also going to exclude age because it is known for people that age does not matter in basketball as long as the player is good
+
+# Data split and K-Fold Cross Validation
+
+```{r}
+set.seed(1)
+mydata_split <- initial_split(mydata, prop = 0.8,
+                               strata = rankings)
+mydata_train <- training(mydata_split)
+mydata_test <- testing(mydata_split)
+mydata_folds <- vfold_cv(mydata_train, v = 5, strata = rankings)
+nrow(mydata_train)/nrow(mydata_test)
+```
+
+Just like our assignments and labs, I used stratified sampling and made the rankings to be sure stratified across different samples to create an unbiased model. This is important because we want to make sure all the folds of dataset have the same distribution of rankings otherwise they are going to generate models based on different datasets. 
+
+# Recipe Creation
+
+```{r}
+my_recipe <- recipe(rankings ~ gp+w+l+min+pts+fg+x3p+ft
+                    +oreb+dreb+ast+stl+blk+dd2+td3+plusminus, data = mydata_train) %>% 
+  step_center(all_predictors()) %>%
+  step_scale(all_predictors())
+rec_poly <- recipe(rankings ~ gp+w+l+min+pts+fg+x3p+ft
+                    +oreb+dreb+ast+stl+blk+dd2+td3+plusminus, data = mydata_train) %>% 
+  step_center(all_predictors()) %>%
+  step_scale(all_predictors()) %>%
+  step_poly(pts, degree = tune())
+rec_tree <- recipe(rankings ~ gp+w+l+min+pts+fg+x3p+ft
+                    +oreb+dreb+ast+stl+blk+dd2+td3+plusminus, data = mydata_train) %>%
+  step_center(all_predictors()) %>%
+  step_scale(all_predictors()) %>%
+  step_normalize(all_predictors())
+```
+
+*Just like I mentioned above, i am going to use all the predictors except age and team. For measurements on performance of my model, I am going to use RMSE. RMSE works really comprehensively on numerical datas and can present us the goodness of fit directly. For polynomial regression, i also made sure that the pts per game is getting tuned because it is essentially the most important factor of measuring how good a player is.* 
+
+# Model Building
+
+I am going to build five different models, linear regession, knn regression, elastic net regression, and random forest. Just like the assignments, I am going to tune the parameters of each models except for linear regression. For knn regression, i am going to tune the neighbors; for elastic net, i am going to tune the penalty and mixture; for polynomial regression, I am going to tune the degrees of pts factor;for the decision tree, i am going to tune the complexity_cost in different cross folds.
+
+```{r}
+lm_mod <- linear_reg() %>% 
+  set_mode("regression") %>%
+  set_engine("lm")
+lm_wkflow <- workflow() %>% 
+  add_model(lm_mod) %>% 
+  add_recipe(my_recipe)
+
+
+knn_mod <- nearest_neighbor(neighbors = tune()) %>% 
+  set_mode("regression") %>% 
+  set_engine("kknn")
+
+knn_wkflow <- workflow() %>% 
+  add_model(knn_mod) %>% 
+  add_recipe(my_recipe)
+
+en_mod <- linear_reg(penalty = tune(), 
+                           mixture = tune()) %>% 
+  set_mode("regression") %>% 
+  set_engine("glmnet")
+
+en_wkflow <- workflow() %>% 
+  add_recipe(my_recipe) %>% 
+  add_model(en_mod)
+ 
+poly_wkflow <- workflow() %>%
+  add_model(lm_mod) %>%
+  add_recipe(rec_poly)
+
+tree_spec <- decision_tree(cost_complexity = tune()) %>%
+  set_engine("rpart") %>% 
+  set_mode("regression")
+
+tree_wkflow <- workflow() %>% 
+  add_model(tree_spec) %>% 
+  add_recipe(rec_tree)
+```
+
+Next, we want to create the grid for each models.
+
+For knn regression, I am going to tune the regression for ten different levels. 
+
+For elastic net regression, I am going to tune the l1 regularization for ten different levels
+
+For polynomial regression, I am going to tune the degree of pts variable in four different degrees.
+
+For decision tree,I am going to tune the complexity cost in a range between -3 and -1 in ten different levels.
+
+```{r}
+knn_grid <- grid_regular(neighbors(range = c(1, 10)), levels = 10)
+
+en_grid <- grid_regular(penalty(range =),
+                        mixture(range = c(0, 1)),
+                             levels = 10)
+poly_grid <- grid_regular(degree(range = c(1, 4)), 
+                            levels = 4)
+tree_grid <- grid_regular(cost_complexity(range = c(-3, -1)), levels = 10)
+```
+
+ *we want to tune the models accordingly to different grid and folds*
+
+```{r,warning=FALSE,message=FALSE}
+knn_tune <- tune_grid(
+    knn_wkflow,
+    resamples = mydata_folds,
+    grid = knn_grid
+)
+
+en_tune <- tune_grid(
+  en_wkflow,
+  resamples = mydata_folds,
+  grid = en_grid
+)
+
+lm_fit <- lm_wkflow %>%
+  fit_resamples(resamples = mydata_folds)
+
+poly_tune <- tune_grid(
+  poly_wkflow,
+  resamples = mydata_folds,
+  grid = poly_grid
+)
+
+tree_tune <- tune_grid(
+  tree_wkflow, 
+  resamples = mydata_folds, 
+  grid = tree_grid
+)
+```
+
+*Then, lastly, we want to use the collect metrics method to calculate the rmse of different models. We want to be able to pick the best model across different parameters tuning. I arranged each accordingly to their lowest rmse. I sliced accordingly on one of them to get the lowest rmse values.* 
+
+```{r}
+lm_rmse <- collect_metrics(lm_fit) %>%
+  slice(1)
+
+
+best_knn <- collect_metrics(knn_tune) %>% 
+  arrange(mean) %>%
+  slice(11)
+
+
+best_en <- collect_metrics(en_tune) %>% 
+  arrange(mean) %>%
+  slice(101)
+
+best_poly <-  poly_tune %>% 
+  collect_metrics() %>% 
+  arrange(mean) %>% 
+  slice(5)
+
+best_tree <- tree_tune %>% 
+  collect_metrics() %>% 
+  arrange(mean) %>% 
+  slice(11)
+
+```
+
+# Best Model Result and Plots
+
+*We can create a data frame for rmse generated from different models. This helps us to visualize the results in a better way.*
+
+```{r}
+models_rmse <- data.frame(models = c("Linear Regression", "Poly Regression", "KNN Regression", "Elastic Net Regression", "Decision Trees"),
+                         rmse = c(lm_rmse$mean, best_poly$mean, best_knn$mean, best_en$mean, best_tree$mean))
+models_rmse
+```
+
+As we can see, the polynomial regression has the lowest rmse across five different models, followed by linear regerssion and elastic net regression. As I presumed, points per game is indeed an important factor in predicting the ratings of a player. 
+
+### Decision tree plot
+
+```{r}
+autoplot(tree_tune, metric = 'rmse')
+```
+
+It can be seen that for decision tree model, as I prune the tree more, the worse the model performs. It is thus can be seen the lower the alpha value is, the more comprehensive the model is.
+
+### Polyregression plot
+
+```{r}
+autoplot(poly_tune, metric = 'rmse')
+```
+
+As we can see, as we increase the degree of points pergame by a player, the better the model is. However, we can tell that jumping from degree 3 to 4 is decreasing. Thus, we can say we can stop tuning at maximum of 4 degrees. We have to be careful of overfitting.
+
+### knn regression plot
+```{r}
+autoplot(knn_tune, metric = 'rmse')
+```
+
+It can be seen that in knn regression, the more neighbors we consider to predict the result, the better the model is. However, we have to be careful of overfitting.
+
+# Prediction and Discussion
+
+```{r}
+best_poly
+```
+
+We are going to use the polynommial regression model with degree of 3 to fit the testing dataset.
+
+The first step is to actually get the best model and fit it to the training dataset that we have.
+
+```{r}
+best_poly_train <- select_best(poly_tune, metric = 'rmse')
+poly_final_wkflow_train <- finalize_workflow(poly_wkflow, best_poly_train)
+poly_fit_train <- fit(poly_final_wkflow_train,data=mydata_train)
+```
+
+Then we want to fit the model with our testing dataset to see how well our model performs.
+
+```{r,warning=FALSE,message=FALSE}
+myprediction <- predict(poly_fit_train,new_data = mydata_test)
+myprediction <- bind_cols(myprediction,select(mydata_test,rankings))
+myprediction
+mymetric <- metric_set(rmse)
+prediction_metric <- mymetric(myprediction,truth=rankings, estimate=.pred)
+prediction_metric
+```
+
+The models performs even better than we are training the model with cross validation. The training rmse is around 1.98, and the prediction rmse is around 1.82. Considering the rankings is a nuemrical value in interval (0,100. We can thus say our model is pretty reliable when it comes to solve this particular problem.
+
+```{r}
+myprediction %>%
+  ggplot(aes(x = .pred, y = rankings)) +
+  geom_point(alpha=0.4,color='red') +
+  geom_abline(lty = 3) +
+  coord_obs_pred() +
+  labs(title = "Predicted Values versus Actual Values")
+```
+
+From the graph above, we can also tell visually, the model performs pretty well. Only few points deviate from our prediction. 
+
+We might also be interested in investigating the variable importance in our model, and this can be done by using the vip package.
+
+```{r}
+poly_fit_train %>% extract_fit_parsnip() %>% 
+  vip() +
+  theme_minimal()+
+  labs(title = "Variable Importance")
+```
+
+From the graph, we can tell that the first degree of points contribute the most to a player's rating, followed by his assist. This matches the common sense because when we evaluate if a basketball player is good or not, we care about their scoring ability the most. 
+
+# Conclusion
+
+This project mainly focuses on regression problem. I implemented different machine learning models on a NBA 2k datasets to predict the official rankings of different players according to different attributes. Coming from my own knowledge about basketball, i know that points pergame is going make a lot contributions to a player's rating, and it turns out that it is indeed this way. Out of five different models, the polynomial regression model fits the best in this paticular problem. Its testing rmse is really low: around 1.82. The worst model to be implemented was decision tree and it was probably such complexed model does not fit such dataset with a linearity trend. Maybe Random Forest will do differently, but considering we have 16 predictors, it might take too long to run the model 
+
+Overall, I am grateful for this class the chance to build this project. I have implemented many machine learning knowledge that i have learned this semester. This experience will definitely help my future profession in software and data engineering. 

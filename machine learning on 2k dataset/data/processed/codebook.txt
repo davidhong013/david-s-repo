@@ -1,0 +1,21 @@
+Player: name of the player
+Team: the team that the player is playing on
+Age: player's age
+Gp: game that players played
+W:wins
+L:losses
+Min:playing minutes that a player get
+Pts:scoring points per game
+Fg:field goal percentage
+X3p:three point shot percentage
+Ft: free throw percentage
+Oreb: number of offensive rebounds
+Reb: number of total rebounds
+Dreb: number of defensive rebounds
+Ast: assists per game
+Stl: steals per game
+blk: blocks per game
+Dd2:games that the player has double-doubled
+Td3:games that the player has triple doubled
+Rankings: the ratings that the player has, the higher the better the player is
+Plusminus: how many points different is the player contribute while he is on the court
