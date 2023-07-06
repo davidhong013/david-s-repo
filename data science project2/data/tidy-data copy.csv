@@ -1,0 +1,1531 @@
+,Year,Location Description,Data Source,Topic Description,Measure Description,Response,Data Value,Low Confidence Limit,High Confidence Limit,Sample Size,Gender,legislation percentage
+0,2016,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.5,65.1,71.9,1260,Overall,80.2
+1,2016,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.1,62.0,72.2,574,Male,80.2
+2,2016,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,65.6,74.4,686,Female,80.2
+3,2016,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.5,28.1,34.9,1260,Overall,80.2
+4,2016,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.9,27.8,38.0,574,Male,80.2
+5,2016,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,25.6,34.4,686,Female,80.2
+6,2015,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.4,68.2,74.6,1393,Overall,80.2
+7,2015,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.3,65.4,75.2,609,Male,80.2
+8,2015,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,68.6,76.8,784,Female,80.2
+9,2015,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.6,25.4,31.8,1393,Overall,80.2
+10,2015,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.7,24.8,34.6,609,Male,80.2
+11,2015,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.2,31.4,784,Female,80.2
+12,2014,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.9,66.4,73.4,1490,Overall,80.2
+13,2014,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.0,66.0,76.0,613,Male,80.2
+14,2014,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.6,63.8,73.4,877,Female,80.2
+15,2014,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.1,26.6,33.6,1490,Overall,80.2
+16,2014,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.0,24.0,34.0,613,Male,80.2
+17,2014,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.4,26.6,36.2,877,Female,80.2
+18,2013,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.4,69.7,77.1,1102,Overall,80.2
+19,2013,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.6,67.0,78.2,437,Male,80.2
+20,2013,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.3,69.9,78.7,665,Female,80.2
+21,2013,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.6,22.9,30.3,1102,Overall,80.2
+22,2013,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.4,21.8,33.0,437,Male,80.2
+23,2013,Alabama,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.7,21.3,30.1,665,Female,80.2
+24,2016,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.4,57.8,71.0,523,Overall,90.9
+25,2016,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,58.6,75.2,276,Male,90.9
+26,2016,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.0,50.4,71.6,247,Female,90.9
+27,2016,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.6,29.0,42.2,523,Overall,90.9
+28,2016,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,24.8,41.4,276,Male,90.9
+29,2016,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,39.0,28.4,49.6,247,Female,90.9
+30,2015,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,67.8,78.0,639,Overall,90.9
+31,2015,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.7,64.7,78.7,324,Male,90.9
+32,2015,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.3,67.0,81.6,315,Female,90.9
+33,2015,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,22.0,32.2,639,Overall,90.9
+34,2015,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.3,21.3,35.3,324,Male,90.9
+35,2015,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.7,18.4,33.0,315,Female,90.9
+36,2014,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.7,63.1,72.3,749,Overall,90.9
+37,2014,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.5,61.1,73.9,364,Male,90.9
+38,2014,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.9,61.3,74.5,385,Female,90.9
+39,2014,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.3,27.7,36.9,749,Overall,90.9
+40,2014,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.5,26.1,38.9,364,Male,90.9
+41,2014,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.1,25.5,38.7,385,Female,90.9
+42,2013,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.3,65.0,73.6,923,Overall,90.9
+43,2013,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,62.1,74.1,447,Male,90.9
+44,2013,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.5,64.3,76.7,476,Female,90.9
+45,2013,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.7,26.4,35.0,923,Overall,90.9
+46,2013,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,25.9,37.9,447,Male,90.9
+47,2013,Alaska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.5,23.3,35.7,476,Female,90.9
+48,2016,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.3,59.9,68.7,1310,Overall,91.3
+49,2016,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.5,57.5,69.5,606,Male,91.3
+50,2016,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.4,59.1,71.7,704,Female,91.3
+51,2016,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.7,31.3,40.1,1310,Overall,91.3
+52,2016,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.5,30.5,42.5,606,Male,91.3
+53,2016,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.6,28.3,40.9,704,Female,91.3
+54,2015,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.4,60.8,70.0,889,Overall,91.3
+55,2015,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.1,54.4,67.8,400,Male,91.3
+56,2015,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.1,65.3,76.9,489,Female,91.3
+57,2015,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.6,30.0,39.2,889,Overall,91.3
+58,2015,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,38.9,32.2,45.6,400,Male,91.3
+59,2015,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.9,23.1,34.7,489,Female,91.3
+60,2014,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.1,63.5,70.7,1811,Overall,91.3
+61,2014,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.7,61.5,71.9,789,Male,91.3
+62,2014,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.5,62.8,72.2,1022,Female,91.3
+63,2014,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.9,29.3,36.5,1811,Overall,91.3
+64,2014,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.3,28.1,38.5,789,Male,91.3
+65,2014,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.5,27.8,37.2,1022,Female,91.3
+66,2013,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,61.4,73.8,622,Overall,91.3
+67,2013,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.3,56.1,74.5,287,Male,91.3
+68,2013,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,63.4,78.4,335,Female,91.3
+69,2013,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,26.2,38.6,622,Overall,91.3
+70,2013,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.7,25.5,43.9,287,Male,91.3
+71,2013,Arizona,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,21.6,36.6,335,Female,91.3
+72,2016,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.3,65.9,76.7,854,Overall,81.2
+73,2016,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,64.3,79.3,356,Male,81.2
+74,2016,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.8,63.2,78.4,498,Female,81.2
+75,2016,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.7,23.3,34.1,854,Overall,81.2
+76,2016,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,20.7,35.7,356,Male,81.2
+77,2016,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.2,21.6,36.8,498,Female,81.2
+78,2015,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.1,64.9,75.3,846,Overall,81.2
+79,2015,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.1,59.4,74.8,338,Male,81.2
+80,2015,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.7,67.3,80.1,508,Female,81.2
+81,2015,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.9,24.7,35.1,846,Overall,81.2
+82,2015,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.9,25.2,40.6,338,Male,81.2
+83,2015,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.3,19.9,32.7,508,Female,81.2
+84,2014,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,67.2,75.8,917,Overall,81.2
+85,2014,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.8,59.0,72.6,362,Male,81.2
+86,2014,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.5,72.5,82.5,555,Female,81.2
+87,2014,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,24.2,32.8,917,Overall,81.2
+88,2014,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.2,27.4,41.0,362,Male,81.2
+89,2014,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.5,17.5,27.5,555,Female,81.2
+90,2013,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.0,71.3,78.7,1005,Overall,81.2
+91,2013,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.2,69.6,80.8,410,Male,81.2
+92,2013,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.8,70.0,79.6,595,Female,81.2
+93,2013,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.0,21.3,28.7,1005,Overall,81.2
+94,2013,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.8,19.2,30.4,410,Male,81.2
+95,2013,Arkansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.2,20.4,30.0,595,Female,81.2
+96,2016,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.5,55.9,63.1,1139,Overall,92.1
+97,2016,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,57.5,52.9,62.1,667,Male,92.1
+98,2016,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.8,57.2,68.4,472,Female,92.1
+99,2016,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,40.5,36.9,44.1,1139,Overall,92.1
+100,2016,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,42.5,37.9,47.1,667,Male,92.1
+101,2016,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.2,31.6,42.8,472,Female,92.1
+102,2015,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.8,58.5,65.1,1295,Overall,92.1
+103,2015,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.4,58.1,66.7,779,Male,92.1
+104,2015,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,60.8,55.5,66.1,516,Female,92.1
+105,2015,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,38.2,34.9,41.5,1295,Overall,92.1
+106,2015,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.6,33.3,41.9,779,Male,92.1
+107,2015,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,39.2,33.9,44.5,516,Female,92.1
+108,2014,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.8,55.8,63.8,962,Overall,92.1
+109,2014,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,57.0,51.8,62.2,567,Male,92.1
+110,2014,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.7,58.7,70.7,395,Female,92.1
+111,2014,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,40.2,36.2,44.2,962,Overall,92.1
+112,2014,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,43.0,37.8,48.2,567,Male,92.1
+113,2014,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.3,29.3,41.3,395,Female,92.1
+114,2013,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.4,59.8,67.0,1223,Overall,92.1
+115,2013,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.9,57.2,66.6,679,Male,92.1
+116,2013,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.1,60.7,71.5,544,Female,92.1
+117,2013,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.6,33.0,40.2,1223,Overall,92.1
+118,2013,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,38.1,33.4,42.8,679,Male,92.1
+119,2013,California,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.9,28.5,39.3,544,Female,92.1
+120,2016,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.3,63.4,69.2,1743,Overall,89.3
+121,2016,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.7,63.8,71.6,897,Male,89.3
+122,2016,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.4,60.0,68.8,846,Female,89.3
+123,2016,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.7,30.8,36.6,1743,Overall,89.3
+124,2016,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.3,28.4,36.2,897,Male,89.3
+125,2016,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.6,31.2,40.0,846,Female,89.3
+126,2015,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.9,62.3,69.5,1673,Overall,89.3
+127,2015,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.6,59.6,69.6,820,Male,89.3
+128,2015,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.4,62.4,72.4,853,Female,89.3
+129,2015,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.1,30.5,37.7,1673,Overall,89.3
+130,2015,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.4,30.4,40.4,820,Male,89.3
+131,2015,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.6,27.6,37.6,853,Female,89.3
+132,2014,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.0,64.9,71.1,1586,Overall,89.3
+133,2014,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.4,64.2,72.6,746,Male,89.3
+134,2014,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,63.1,72.1,840,Female,89.3
+135,2014,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.0,28.9,35.1,1586,Overall,89.3
+136,2014,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.6,27.4,35.8,746,Male,89.3
+137,2014,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,27.9,36.9,840,Female,89.3
+138,2013,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,64.8,70.4,1831,Overall,89.3
+139,2013,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,63.6,71.6,852,Male,89.3
+140,2013,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.5,63.6,71.4,979,Female,89.3
+141,2013,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,29.6,35.2,1831,Overall,89.3
+142,2013,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,28.4,36.4,852,Male,89.3
+143,2013,Colorado,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.5,28.6,36.4,979,Female,89.3
+144,2016,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,65.8,73.0,1150,Overall,86.7
+145,2016,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.7,61.3,72.1,541,Male,86.7
+146,2016,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.5,67.9,77.1,609,Female,86.7
+147,2016,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,27.0,34.2,1150,Overall,86.7
+148,2016,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.3,27.9,38.7,541,Male,86.7
+149,2016,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.5,22.9,32.1,609,Female,86.7
+150,2015,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.7,63.0,70.4,1309,Overall,86.7
+151,2015,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.6,61.4,71.8,636,Male,86.7
+152,2015,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,61.9,71.9,673,Female,86.7
+153,2015,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.3,29.6,37.0,1309,Overall,86.7
+154,2015,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.4,28.2,38.6,636,Male,86.7
+155,2015,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,28.1,38.1,673,Female,86.7
+156,2014,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.2,62.1,70.3,897,Overall,86.7
+157,2014,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.2,58.3,70.1,434,Male,86.7
+158,2014,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.6,63.0,74.2,463,Female,86.7
+159,2014,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.8,29.7,37.9,897,Overall,86.7
+160,2014,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.8,29.9,41.7,434,Male,86.7
+161,2014,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.4,25.8,37.0,463,Female,86.7
+162,2013,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.0,60.9,69.1,1058,Overall,86.7
+163,2013,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.3,57.4,69.2,477,Male,86.7
+164,2013,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,61.1,72.7,581,Female,86.7
+165,2013,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.0,30.9,39.1,1058,Overall,86.7
+166,2013,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.7,30.8,42.6,477,Male,86.7
+167,2013,Connecticut,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,27.3,38.9,581,Female,86.7
+168,2016,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.4,65.6,75.2,646,Overall,84.0
+169,2016,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.2,59.0,73.4,303,Male,84.0
+170,2016,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.9,68.8,81.0,343,Female,84.0
+171,2016,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.6,24.8,34.4,646,Overall,84.0
+172,2016,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.8,26.6,41.0,303,Male,84.0
+173,2016,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.1,19.0,31.2,343,Female,84.0
+174,2015,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.7,63.5,73.9,612,Overall,84.0
+175,2015,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.0,58.8,73.2,303,Male,84.0
+176,2015,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.2,64.9,79.5,309,Female,84.0
+177,2015,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.3,26.1,36.5,612,Overall,84.0
+178,2015,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.0,26.8,41.2,303,Male,84.0
+179,2015,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.8,20.5,35.1,309,Female,84.0
+180,2014,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.0,69.3,78.7,655,Overall,84.0
+181,2014,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.1,67.0,81.2,287,Male,84.0
+182,2014,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.8,67.9,79.7,368,Female,84.0
+183,2014,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.0,21.3,30.7,655,Overall,84.0
+184,2014,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.9,18.8,33.0,287,Male,84.0
+185,2014,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.2,20.3,32.1,368,Female,84.0
+186,2013,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.7,64.2,73.2,842,Overall,84.0
+187,2013,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.3,63.1,75.5,376,Male,84.0
+188,2013,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,61.6,74.6,466,Female,84.0
+189,2013,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.3,26.8,35.8,842,Overall,84.0
+190,2013,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.7,24.5,36.9,376,Male,84.0
+191,2013,Delaware,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,25.4,38.4,466,Female,84.0
+192,2016,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,56.8,51.5,62.1,561,Overall,83.3
+193,2016,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,55.1,47.6,62.6,263,Male,83.3
+194,2016,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.0,51.5,66.5,298,Female,83.3
+195,2016,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,43.2,37.9,48.5,561,Overall,83.3
+196,2016,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,44.9,37.4,52.4,263,Male,83.3
+197,2016,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,41.0,33.5,48.5,298,Female,83.3
+198,2015,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,54.2,45.8,62.6,488,Overall,83.3
+199,2015,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,50.7,38.5,62.9,204,Male,83.3
+200,2015,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,57.4,45.8,69.0,284,Female,83.3
+201,2015,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,45.8,37.4,54.2,488,Overall,83.3
+202,2015,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,49.3,37.1,61.5,204,Male,83.3
+203,2015,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,42.6,31.0,54.2,284,Female,83.3
+204,2014,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.3,54.1,68.5,484,Overall,83.3
+205,2014,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.6,49.9,69.3,215,Male,83.3
+206,2014,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.2,52.6,73.8,269,Female,83.3
+207,2014,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,38.7,31.5,45.9,484,Overall,83.3
+208,2014,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,40.4,30.7,50.1,215,Male,83.3
+209,2014,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.8,26.2,47.4,269,Female,83.3
+210,2013,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,57.2,51.1,63.3,631,Overall,83.3
+211,2013,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.3,51.0,67.6,289,Male,83.3
+212,2013,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,54.2,45.3,63.1,342,Female,83.3
+213,2013,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,42.8,36.7,48.9,631,Overall,83.3
+214,2013,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,40.7,32.4,49.0,289,Male,83.3
+215,2013,District of Columbia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,45.8,36.9,54.7,342,Female,83.3
+216,2016,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.1,62.4,67.8,5473,Overall,88.8
+217,2016,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.6,59.8,67.4,2548,Male,88.8
+218,2016,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.0,63.3,70.7,2925,Female,88.8
+219,2016,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.9,32.2,37.6,5473,Overall,88.8
+220,2016,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.4,32.6,40.2,2548,Male,88.8
+221,2016,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.0,29.3,36.7,2925,Female,88.8
+222,2015,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.2,63.4,71.0,1218,Overall,88.8
+223,2015,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.5,60.9,72.1,548,Male,88.8
+224,2015,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.0,63.0,73.0,670,Female,88.8
+225,2015,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.8,29.0,36.6,1218,Overall,88.8
+226,2015,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.5,27.9,39.1,548,Male,88.8
+227,2015,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.0,27.0,37.0,670,Female,88.8
+228,2014,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.6,62.0,69.2,1271,Overall,88.8
+229,2014,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.7,61.5,71.9,549,Male,88.8
+230,2014,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.4,59.4,69.4,722,Female,88.8
+231,2014,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.4,30.8,38.0,1271,Overall,88.8
+232,2014,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.3,28.1,38.5,549,Male,88.8
+233,2014,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.6,30.6,40.6,722,Female,88.8
+234,2013,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.7,65.9,71.5,5384,Overall,88.8
+235,2013,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.0,65.0,73.0,2229,Male,88.8
+236,2013,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,64.5,72.1,3155,Female,88.8
+237,2013,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.3,28.5,34.1,5384,Overall,88.8
+238,2013,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.0,27.0,35.0,2229,Male,88.8
+239,2013,Florida,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,27.9,35.5,3155,Female,88.8
+240,2016,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.7,63.6,71.8,810,Overall,86.5
+241,2016,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.0,61.2,72.8,387,Male,86.5
+242,2016,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.6,62.9,74.3,423,Female,86.5
+243,2016,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.3,28.2,36.4,810,Overall,86.5
+244,2016,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.0,27.2,38.8,387,Male,86.5
+245,2016,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.4,25.7,37.1,423,Female,86.5
+246,2015,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.6,64.9,74.3,647,Overall,86.5
+247,2015,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.2,58.3,72.1,288,Male,86.5
+248,2015,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.9,68.8,81.0,359,Female,86.5
+249,2015,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.4,25.7,35.1,647,Overall,86.5
+250,2015,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.8,27.9,41.7,288,Male,86.5
+251,2015,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.1,19.0,31.2,359,Female,86.5
+252,2014,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.1,66.8,75.4,843,Overall,86.5
+253,2014,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,64.1,76.3,377,Male,86.5
+254,2014,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.6,67.0,78.2,466,Female,86.5
+255,2014,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.9,24.6,33.2,843,Overall,86.5
+256,2014,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,23.7,35.9,377,Male,86.5
+257,2014,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.4,21.8,33.0,466,Female,86.5
+258,2013,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.3,68.8,75.8,1180,Overall,86.5
+259,2013,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.5,64.4,74.6,553,Male,86.5
+260,2013,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.2,72.0,80.4,627,Female,86.5
+261,2013,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.7,24.2,31.2,1180,Overall,86.5
+262,2013,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.5,25.4,35.6,553,Male,86.5
+263,2013,Georgia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.8,19.6,28.0,627,Female,86.5
+264,2016,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,64.1,72.5,934,Overall,87.4
+265,2016,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.7,59.9,71.5,506,Male,87.4
+266,2016,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,65.8,77.8,428,Female,87.4
+267,2016,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,27.5,35.9,934,Overall,87.4
+268,2016,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.3,28.5,40.1,506,Male,87.4
+269,2016,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,22.2,34.2,428,Female,87.4
+270,2015,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.3,66.9,75.7,857,Overall,87.4
+271,2015,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,64.4,76.8,472,Male,87.4
+272,2015,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.3,66.3,78.3,385,Female,87.4
+273,2015,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.7,24.3,33.1,857,Overall,87.4
+274,2015,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,23.2,35.6,472,Male,87.4
+275,2015,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.7,21.7,33.7,385,Female,87.4
+276,2014,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.2,63.9,72.5,925,Overall,87.4
+277,2014,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.7,56.8,68.6,510,Male,87.4
+278,2014,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.4,69.3,81.5,415,Female,87.4
+279,2014,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.8,27.5,36.1,925,Overall,87.4
+280,2014,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.3,31.4,43.2,510,Male,87.4
+281,2014,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.6,18.5,30.7,415,Female,87.4
+282,2013,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.2,62.9,71.5,981,Overall,87.4
+283,2013,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.3,59.6,71.0,539,Male,87.4
+284,2013,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.9,63.6,76.2,442,Female,87.4
+285,2013,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.8,28.5,37.1,981,Overall,87.4
+286,2013,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.7,29.0,40.4,539,Male,87.4
+287,2013,Hawaii,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.1,23.8,36.4,442,Female,87.4
+288,2016,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,65.8,76.0,627,Overall,91.0
+289,2016,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.7,59.9,75.5,268,Male,91.0
+290,2016,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.0,67.7,80.3,359,Female,91.0
+291,2016,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,24.0,34.2,627,Overall,91.0
+292,2016,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.3,24.5,40.1,268,Male,91.0
+293,2016,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.0,19.7,32.3,359,Female,91.0
+294,2015,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,67.2,76.4,707,Overall,91.0
+295,2015,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.7,65.0,78.4,330,Male,91.0
+296,2015,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.9,65.6,78.2,377,Female,91.0
+297,2015,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,23.6,32.8,707,Overall,91.0
+298,2015,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.3,21.6,35.0,330,Male,91.0
+299,2015,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.1,21.8,34.4,377,Female,91.0
+300,2014,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,64.8,74.6,753,Overall,91.0
+301,2014,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.3,57.9,72.7,332,Male,91.0
+302,2014,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.2,68.2,80.2,421,Female,91.0
+303,2014,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,25.4,35.2,753,Overall,91.0
+304,2014,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.7,27.3,42.1,332,Male,91.0
+305,2014,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.8,19.8,31.8,421,Female,91.0
+306,2013,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.1,66.4,75.8,791,Overall,91.0
+307,2013,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.1,62.2,76.0,347,Male,91.0
+308,2013,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.7,67.9,79.5,444,Female,91.0
+309,2013,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.9,24.2,33.6,791,Overall,91.0
+310,2013,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.9,24.0,37.8,347,Male,91.0
+311,2013,Idaho,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.3,20.5,32.1,444,Female,91.0
+312,2016,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,63.2,72.0,623,Overall,84.5
+313,2016,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.2,58.1,70.3,342,Male,84.5
+314,2016,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.2,65.8,78.6,281,Female,84.5
+315,2016,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,28.0,36.8,623,Overall,84.5
+316,2016,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.8,29.7,41.9,342,Male,84.5
+317,2016,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.8,21.4,34.2,281,Female,84.5
+318,2015,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.9,61.2,70.6,677,Overall,84.5
+319,2015,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,63.5,75.9,336,Male,84.5
+320,2015,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.1,54.1,68.1,341,Female,84.5
+321,2015,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.1,29.4,38.8,677,Overall,84.5
+322,2015,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,24.1,36.5,336,Male,84.5
+323,2015,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,38.9,31.9,45.9,341,Female,84.5
+324,2014,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,63.7,72.9,651,Overall,84.5
+325,2014,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.0,62.5,75.5,308,Male,84.5
+326,2014,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.4,61.1,73.7,343,Female,84.5
+327,2014,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,27.1,36.3,651,Overall,84.5
+328,2014,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.0,24.5,37.5,308,Male,84.5
+329,2014,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.6,26.3,38.9,343,Female,84.5
+330,2013,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.6,64.3,72.9,839,Overall,84.5
+331,2013,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.7,62.6,74.8,404,Male,84.5
+332,2013,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.4,62.5,74.3,435,Female,84.5
+333,2013,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.4,27.1,35.7,839,Overall,84.5
+334,2013,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.3,25.2,37.4,404,Male,84.5
+335,2013,Illinois,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.6,25.7,37.5,435,Female,84.5
+336,2016,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,70.3,75.9,1822,Overall,78.8
+337,2016,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.3,70.2,78.4,824,Male,78.8
+338,2016,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.6,67.7,75.5,998,Female,78.8
+339,2016,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,24.1,29.7,1822,Overall,78.8
+340,2016,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.7,21.6,29.8,824,Male,78.8
+341,2016,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.4,24.5,32.3,998,Female,78.8
+342,2015,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,67.2,75.8,917,Overall,78.8
+343,2015,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.2,65.3,77.1,437,Male,78.8
+344,2015,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,65.6,78.0,480,Female,78.8
+345,2015,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,24.2,32.8,917,Overall,78.8
+346,2015,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.8,22.9,34.7,437,Male,78.8
+347,2015,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,22.0,34.4,480,Female,78.8
+348,2014,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.7,71.1,76.3,1930,Overall,78.8
+349,2014,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,68.8,76.6,851,Male,78.8
+350,2014,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.8,71.5,78.1,1079,Female,78.8
+351,2014,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.3,23.7,28.9,1930,Overall,78.8
+352,2014,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.4,31.2,851,Male,78.8
+353,2014,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.2,21.9,28.5,1079,Female,78.8
+354,2013,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.9,73.4,78.4,1870,Overall,78.8
+355,2013,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.7,70.9,78.5,851,Male,78.8
+356,2013,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.1,73.8,80.4,1019,Female,78.8
+357,2013,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.1,21.6,26.6,1870,Overall,78.8
+358,2013,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.3,21.5,29.1,851,Male,78.8
+359,2013,Indiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.9,19.6,26.2,1019,Female,78.8
+360,2016,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.1,71.4,78.8,951,Overall,86.4
+361,2016,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.2,67.8,78.6,456,Male,86.4
+362,2016,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.1,72.3,81.9,495,Female,86.4
+363,2016,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.9,21.2,28.6,951,Overall,86.4
+364,2016,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.8,21.4,32.2,456,Male,86.4
+365,2016,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.9,18.1,27.7,495,Female,86.4
+366,2015,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.4,68.4,76.4,867,Overall,86.4
+367,2015,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,67.3,78.5,415,Male,86.4
+368,2015,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.7,65.9,77.5,452,Female,86.4
+369,2015,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.6,23.6,31.6,867,Overall,86.4
+370,2015,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,21.5,32.7,415,Male,86.4
+371,2015,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.3,22.5,34.1,452,Female,86.4
+372,2014,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.3,70.9,77.7,1165,Overall,86.4
+373,2014,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.9,72.5,81.3,551,Male,86.4
+374,2014,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.4,66.3,76.5,614,Female,86.4
+375,2014,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.7,22.3,29.1,1165,Overall,86.4
+376,2014,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.1,18.7,27.5,551,Male,86.4
+377,2014,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.6,23.5,33.7,614,Female,86.4
+378,2013,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.9,73.7,80.1,1226,Overall,86.4
+379,2013,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.2,73.0,81.4,590,Male,86.4
+380,2013,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.4,71.5,81.3,636,Female,86.4
+381,2013,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.1,19.9,26.3,1226,Overall,86.4
+382,2013,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.8,18.6,27.0,590,Male,86.4
+383,2013,Iowa,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.6,18.7,28.5,636,Female,86.4
+384,2016,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.8,70.2,75.4,1741,Overall,81.7
+385,2016,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.1,68.2,76.0,849,Male,81.7
+386,2016,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.7,70.2,77.2,892,Female,81.7
+387,2016,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.2,24.6,29.8,1741,Overall,81.7
+388,2016,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.9,24.0,31.8,849,Male,81.7
+389,2016,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.3,22.8,29.8,892,Female,81.7
+390,2015,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.1,68.1,72.1,3343,Overall,81.7
+391,2015,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,67.4,73.0,1634,Male,81.7
+392,2015,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.9,67.1,72.7,1709,Female,81.7
+393,2015,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.9,27.9,31.9,3343,Overall,81.7
+394,2015,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,27.0,32.6,1634,Male,81.7
+395,2015,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.1,27.3,32.9,1709,Female,81.7
+396,2014,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.5,70.1,74.9,2036,Overall,81.7
+397,2014,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.6,69.2,76.0,988,Male,81.7
+398,2014,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.4,69.0,75.8,1048,Female,81.7
+399,2014,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.5,25.1,29.9,2036,Overall,81.7
+400,2014,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.4,24.0,30.8,988,Male,81.7
+401,2014,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.6,24.2,31.0,1048,Female,81.7
+402,2013,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.5,70.7,74.3,3865,Overall,81.7
+403,2013,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.0,68.4,73.6,1786,Male,81.7
+404,2013,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.3,71.8,76.8,2079,Female,81.7
+405,2013,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.5,25.7,29.3,3865,Overall,81.7
+406,2013,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.0,26.4,31.6,1786,Male,81.7
+407,2013,Kansas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.7,23.2,28.2,2079,Female,81.7
+408,2016,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.5,73.6,79.4,2019,Overall,74.1
+409,2016,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.7,71.7,79.7,858,Male,74.1
+410,2016,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.2,73.1,81.3,1161,Female,74.1
+411,2016,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.5,20.6,26.4,2019,Overall,74.1
+412,2016,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.3,20.3,28.3,858,Male,74.1
+413,2016,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.8,18.7,26.9,1161,Female,74.1
+414,2015,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.0,76.1,81.9,1793,Overall,74.1
+415,2015,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.1,74.6,83.6,669,Male,74.1
+416,2015,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.0,75.1,82.9,1124,Female,74.1
+417,2015,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.0,18.1,23.9,1793,Overall,74.1
+418,2015,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,20.9,16.4,25.4,669,Male,74.1
+419,2015,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.0,17.1,24.9,1124,Female,74.1
+420,2014,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.1,75.2,81.0,2278,Overall,74.1
+421,2014,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.8,69.8,79.8,814,Male,74.1
+422,2014,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,81.4,78.4,84.4,1464,Female,74.1
+423,2014,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.9,19.0,24.8,2278,Overall,74.1
+424,2014,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.2,20.2,30.2,814,Male,74.1
+425,2014,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,18.6,15.6,21.6,1464,Female,74.1
+426,2013,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.3,74.8,79.8,2382,Overall,74.1
+427,2013,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.2,74.6,81.8,926,Male,74.1
+428,2013,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.3,72.7,79.9,1456,Female,74.1
+429,2013,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.7,20.2,25.2,2382,Overall,74.1
+430,2013,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.8,18.2,25.4,926,Male,74.1
+431,2013,Kentucky,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.7,20.1,27.3,1456,Female,74.1
+432,2016,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.5,61.5,71.5,883,Overall,82.6
+433,2016,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.0,55.8,70.2,374,Male,82.6
+434,2016,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.5,64.0,77.0,509,Female,82.6
+435,2016,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.5,28.5,38.5,883,Overall,82.6
+436,2016,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.0,29.8,44.2,374,Male,82.6
+437,2016,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.5,23.0,36.0,509,Female,82.6
+438,2015,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.2,65.0,73.4,799,Overall,82.6
+439,2015,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.6,65.4,77.8,336,Male,82.6
+440,2015,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.3,60.8,71.8,463,Female,82.6
+441,2015,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.8,26.6,35.0,799,Overall,82.6
+442,2015,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.4,22.2,34.6,336,Male,82.6
+443,2015,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.7,28.2,39.2,463,Female,82.6
+444,2014,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.9,66.8,73.0,1319,Overall,82.6
+445,2014,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.5,62.8,72.2,578,Male,82.6
+446,2014,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,68.8,76.6,741,Female,82.6
+447,2014,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.1,27.0,33.2,1319,Overall,82.6
+448,2014,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.5,27.8,37.2,578,Male,82.6
+449,2014,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.4,31.2,741,Female,82.6
+450,2013,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.0,66.2,75.8,894,Overall,82.6
+451,2013,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.5,66.7,80.3,359,Male,82.6
+452,2013,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.8,61.2,74.4,535,Female,82.6
+453,2013,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.0,24.2,33.8,894,Overall,82.6
+454,2013,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.5,19.7,33.3,359,Male,82.6
+455,2013,Louisiana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.2,25.6,38.8,535,Female,82.6
+456,2016,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.4,74.2,80.6,1527,Overall,84.5
+457,2016,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.6,74.4,82.8,713,Male,84.5
+458,2016,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.1,71.2,81.0,814,Female,84.5
+459,2016,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.6,19.4,25.8,1527,Overall,84.5
+460,2016,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.4,17.2,25.6,713,Male,84.5
+461,2016,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.9,19.0,28.8,814,Female,84.5
+462,2015,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.2,76.1,82.3,1303,Overall,84.5
+463,2015,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.8,75.2,84.4,589,Male,84.5
+464,2015,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.6,74.5,82.7,714,Female,84.5
+465,2015,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,20.8,17.7,23.9,1303,Overall,84.5
+466,2015,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,20.2,15.6,24.8,589,Male,84.5
+467,2015,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.4,17.3,25.5,714,Female,84.5
+468,2014,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.0,72.8,79.2,1322,Overall,84.5
+469,2014,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.6,71.9,81.3,585,Male,84.5
+470,2014,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.3,71.1,79.5,737,Female,84.5
+471,2014,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.0,20.8,27.2,1322,Overall,84.5
+472,2014,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.4,18.7,28.1,585,Male,84.5
+473,2014,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.7,20.5,28.9,737,Female,84.5
+474,2013,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.5,71.3,77.7,1255,Overall,84.5
+475,2013,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.7,73.4,82.0,580,Male,84.5
+476,2013,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.8,66.1,75.5,675,Female,84.5
+477,2013,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.5,22.3,28.7,1255,Overall,84.5
+478,2013,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.3,18.0,26.6,580,Male,84.5
+479,2013,Maine,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.2,24.5,33.9,675,Female,84.5
+480,2016,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.5,65.5,71.5,2131,Overall,87.9
+481,2016,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,63.7,72.5,931,Male,87.9
+482,2016,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.0,64.9,73.1,1200,Female,87.9
+483,2016,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.5,28.5,34.5,2131,Overall,87.9
+484,2016,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,27.5,36.3,931,Male,87.9
+485,2016,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.0,26.9,35.1,1200,Female,87.9
+486,2015,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,62.5,72.7,1396,Overall,87.9
+487,2015,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.3,55.6,71.0,581,Male,87.9
+488,2015,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.6,66.4,78.8,815,Female,87.9
+489,2015,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,27.3,37.5,1396,Overall,87.9
+490,2015,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.7,29.0,44.4,581,Male,87.9
+491,2015,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.4,21.2,33.6,815,Female,87.9
+492,2014,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,63.9,72.7,1425,Overall,87.9
+493,2014,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.1,63.8,76.4,585,Male,87.9
+494,2014,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.2,60.2,72.2,840,Female,87.9
+495,2014,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,27.3,36.1,1425,Overall,87.9
+496,2014,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.9,23.6,36.2,585,Male,87.9
+497,2014,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.8,27.8,39.8,840,Female,87.9
+498,2013,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.4,67.9,74.9,1681,Overall,87.9
+499,2013,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,64.6,74.8,740,Male,87.9
+500,2013,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.6,69.3,77.9,941,Female,87.9
+501,2013,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.6,25.1,32.1,1681,Overall,87.9
+502,2013,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,25.2,35.4,740,Male,87.9
+503,2013,Maryland,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.4,22.1,30.7,941,Female,87.9
+504,2016,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,66.8,74.4,1048,Overall,88.0
+505,2016,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,65.1,75.3,548,Male,88.0
+506,2016,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.2,65.6,76.8,500,Female,88.0
+507,2016,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,25.6,33.2,1048,Overall,88.0
+508,2016,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,24.7,34.9,548,Male,88.0
+509,2016,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.8,23.2,34.4,500,Female,88.0
+510,2015,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,64.5,71.7,1221,Overall,88.0
+511,2015,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.3,64.4,74.2,619,Male,88.0
+512,2015,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.7,61.4,72.0,602,Female,88.0
+513,2015,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,28.3,35.5,1221,Overall,88.0
+514,2015,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.7,25.8,35.6,619,Male,88.0
+515,2015,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.3,28.0,38.6,602,Female,88.0
+516,2014,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,64.8,71.4,1912,Overall,88.0
+517,2014,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.6,62.7,72.5,840,Male,88.0
+518,2014,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.6,64.1,73.1,1072,Female,88.0
+519,2014,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,28.6,35.2,1912,Overall,88.0
+520,2014,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.4,27.5,37.3,840,Male,88.0
+521,2014,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.4,26.9,35.9,1072,Female,88.0
+522,2013,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,67.7,74.1,2182,Overall,88.0
+523,2013,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.1,64.3,73.9,951,Male,88.0
+524,2013,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,69.2,77.0,1231,Female,88.0
+525,2013,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,25.9,32.3,2182,Overall,88.0
+526,2013,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.9,26.1,35.7,951,Male,88.0
+527,2013,Massachusetts,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,23.0,30.8,1231,Female,88.0
+528,2016,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,67.6,72.8,1979,Overall,80.8
+529,2016,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.0,68.3,75.7,932,Male,80.8
+530,2016,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,64.7,71.9,1047,Female,80.8
+531,2016,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,27.2,32.4,1979,Overall,80.8
+532,2016,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.0,24.3,31.7,932,Male,80.8
+533,2016,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,28.1,35.3,1047,Female,80.8
+534,2015,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,69.0,74.6,1460,Overall,80.8
+535,2015,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.9,70.0,77.8,701,Male,80.8
+536,2015,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,65.3,73.5,759,Female,80.8
+537,2015,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,25.4,31.0,1460,Overall,80.8
+538,2015,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.1,22.2,30.0,701,Male,80.8
+539,2015,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,26.5,34.7,759,Female,80.8
+540,2014,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.6,70.7,76.5,1295,Overall,80.8
+541,2014,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,68.8,77.0,626,Male,80.8
+542,2014,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.4,70.2,78.6,669,Female,80.8
+543,2014,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.4,23.5,29.3,1295,Overall,80.8
+544,2014,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,23.0,31.2,626,Male,80.8
+545,2014,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.6,21.4,29.8,669,Female,80.8
+546,2013,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.5,73.1,77.9,2153,Overall,80.8
+547,2013,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.6,72.2,79.0,1028,Male,80.8
+548,2013,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.3,72.0,78.6,1125,Female,80.8
+549,2013,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.5,22.1,26.9,2153,Overall,80.8
+550,2013,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.4,21.0,27.8,1028,Male,80.8
+551,2013,Michigan,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.7,21.4,28.0,1125,Female,80.8
+552,2016,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,67.1,71.7,2214,Overall,87.1
+553,2016,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.3,64.0,70.6,1152,Male,87.1
+554,2016,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,68.5,75.1,1062,Female,87.1
+555,2016,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,28.3,32.9,2214,Overall,87.1
+556,2016,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.7,29.4,36.0,1152,Male,87.1
+557,2016,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,24.9,31.5,1062,Female,87.1
+558,2015,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,67.0,71.8,2293,Overall,87.1
+559,2015,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.9,66.4,73.4,1101,Male,87.1
+560,2015,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.8,65.4,72.2,1192,Female,87.1
+561,2015,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,28.2,33.0,2293,Overall,87.1
+562,2015,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.1,26.6,33.6,1101,Male,87.1
+563,2015,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.2,27.8,34.6,1192,Female,87.1
+564,2014,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.1,67.9,72.3,2311,Overall,87.1
+565,2014,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.5,67.4,73.6,1139,Male,87.1
+566,2014,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.8,66.6,73.0,1172,Female,87.1
+567,2014,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.9,27.7,32.1,2311,Overall,87.1
+568,2014,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.5,26.4,32.6,1139,Male,87.1
+569,2014,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.2,27.0,33.4,1172,Female,87.1
+570,2013,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.9,65.6,72.2,2002,Overall,87.1
+571,2013,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.2,66.9,75.5,937,Male,87.1
+572,2013,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.2,61.1,71.3,1065,Female,87.1
+573,2013,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.1,27.8,34.4,2002,Overall,87.1
+574,2013,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.8,24.5,33.1,937,Male,87.1
+575,2013,Minnesota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.8,28.7,38.9,1065,Female,87.1
+576,2016,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,69.2,77.0,904,Overall,78.1
+577,2016,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.1,64.3,75.9,417,Male,78.1
+578,2016,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.2,71.1,81.3,487,Female,78.1
+579,2016,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,23.0,30.8,904,Overall,78.1
+580,2016,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.9,24.1,35.7,417,Male,78.1
+581,2016,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.8,18.7,28.9,487,Female,78.1
+582,2015,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.9,64.9,72.9,998,Overall,78.1
+583,2015,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.5,61.7,73.3,441,Male,78.1
+584,2015,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.8,65.6,76.0,557,Female,78.1
+585,2015,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.1,27.1,35.1,998,Overall,78.1
+586,2015,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.5,26.7,38.3,441,Male,78.1
+587,2015,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.2,24.0,34.4,557,Female,78.1
+588,2014,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.3,62.6,72.0,704,Overall,78.1
+589,2014,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.9,57.6,72.2,281,Male,78.1
+590,2014,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,63.8,75.6,423,Female,78.1
+591,2014,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.7,28.0,37.4,704,Overall,78.1
+592,2014,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.1,27.8,42.4,281,Male,78.1
+593,2014,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,24.4,36.2,423,Female,78.1
+594,2013,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.1,67.8,74.4,1355,Overall,78.1
+595,2013,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.0,67.2,76.8,557,Male,78.1
+596,2013,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,65.7,74.7,798,Female,78.1
+597,2013,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.9,25.6,32.2,1355,Overall,78.1
+598,2013,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.0,23.2,32.8,557,Male,78.1
+599,2013,Mississippi,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,25.3,34.3,798,Female,78.1
+600,2016,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.6,75.3,81.9,1284,Overall,82.8
+601,2016,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.6,73.9,83.3,610,Male,82.8
+602,2016,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.7,74.0,83.4,674,Female,82.8
+603,2016,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.4,18.1,24.7,1284,Overall,82.8
+604,2016,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.4,16.7,26.1,610,Male,82.8
+605,2016,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.3,16.6,26.0,674,Female,82.8
+606,2015,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.2,70.8,77.6,1349,Overall,82.8
+607,2015,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.5,69.6,79.4,606,Male,82.8
+608,2015,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.8,69.1,78.5,743,Female,82.8
+609,2015,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.8,22.4,29.2,1349,Overall,82.8
+610,2015,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.5,20.6,30.4,606,Male,82.8
+611,2015,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.2,21.5,30.9,743,Female,82.8
+612,2014,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.7,73.2,80.2,1220,Overall,82.8
+613,2014,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.3,70.1,80.5,524,Male,82.8
+614,2014,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.2,73.5,82.9,696,Female,82.8
+615,2014,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.3,19.8,26.8,1220,Overall,82.8
+616,2014,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.7,19.5,29.9,524,Male,82.8
+617,2014,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.8,17.1,26.5,696,Female,82.8
+618,2013,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.3,71.9,78.7,1383,Overall,82.8
+619,2013,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.5,72.8,82.2,603,Male,82.8
+620,2013,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,68.2,77.6,780,Female,82.8
+621,2013,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.7,21.3,28.1,1383,Overall,82.8
+622,2013,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.5,17.8,27.2,603,Male,82.8
+623,2013,Missouri,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,22.4,31.8,780,Female,82.8
+624,2016,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.3,67.2,75.4,950,Overall,86.3
+625,2016,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.2,65.5,76.9,451,Male,86.3
+626,2016,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.4,65.3,77.5,499,Female,86.3
+627,2016,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.7,24.6,32.8,950,Overall,86.3
+628,2016,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.8,23.1,34.5,451,Male,86.3
+629,2016,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.6,22.5,34.7,499,Female,86.3
+630,2015,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,63.6,72.6,934,Overall,86.3
+631,2015,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.7,59.2,72.2,422,Male,86.3
+632,2015,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,64.5,76.7,512,Female,86.3
+633,2015,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,27.4,36.4,934,Overall,86.3
+634,2015,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.3,27.8,40.8,422,Male,86.3
+635,2015,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,23.3,35.5,512,Female,86.3
+636,2014,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,66.1,73.9,1211,Overall,86.3
+637,2014,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.5,63.8,75.2,539,Male,86.3
+638,2014,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,65.1,76.1,672,Female,86.3
+639,2014,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,26.1,33.9,1211,Overall,86.3
+640,2014,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.5,24.8,36.2,539,Male,86.3
+641,2014,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,23.9,34.9,672,Female,86.3
+642,2013,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.9,71.1,76.7,1675,Overall,86.3
+643,2013,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.6,68.5,76.7,782,Male,86.3
+644,2013,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.5,71.6,79.4,893,Female,86.3
+645,2013,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.1,23.3,28.9,1675,Overall,86.3
+646,2013,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.4,23.3,31.5,782,Male,86.3
+647,2013,Montana,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.5,20.6,28.4,893,Female,86.3
+648,2016,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.2,68.1,74.3,2191,Overall,87.3
+649,2016,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.9,67.4,76.4,1056,Male,87.3
+650,2016,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.3,65.9,74.7,1135,Female,87.3
+651,2016,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.8,25.7,31.9,2191,Overall,87.3
+652,2016,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.1,23.6,32.6,1056,Male,87.3
+653,2016,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.7,25.3,34.1,1135,Female,87.3
+654,2015,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.8,70.0,75.6,2484,Overall,87.3
+655,2015,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.4,68.4,76.4,1148,Male,87.3
+656,2015,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.3,69.5,77.1,1336,Female,87.3
+657,2015,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.2,24.4,30.0,2484,Overall,87.3
+658,2015,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.6,23.6,31.6,1148,Male,87.3
+659,2015,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.7,22.9,30.5,1336,Female,87.3
+660,2014,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.4,67.8,73.0,3249,Overall,87.3
+661,2014,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.0,65.2,72.8,1495,Male,87.3
+662,2014,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.9,68.4,75.4,1754,Female,87.3
+663,2014,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.6,27.0,32.2,3249,Overall,87.3
+664,2014,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.0,27.2,34.8,1495,Male,87.3
+665,2014,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.1,24.6,31.6,1754,Female,87.3
+666,2013,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.4,71.8,77.0,2553,Overall,87.3
+667,2013,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.9,70.1,77.7,1152,Male,87.3
+668,2013,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.9,71.4,78.4,1401,Female,87.3
+669,2013,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.6,23.0,28.2,2553,Overall,87.3
+670,2013,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.1,22.3,29.9,1152,Male,87.3
+671,2013,Nebraska,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.1,21.6,28.6,1401,Female,87.3
+672,2016,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.4,60.1,70.7,641,Overall,87.6
+673,2016,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.6,57.0,72.2,325,Male,87.6
+674,2016,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.4,59.1,73.7,316,Female,87.6
+675,2016,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.6,29.3,39.9,641,Overall,87.6
+676,2016,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.4,27.8,43.0,325,Male,87.6
+677,2016,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.6,26.3,40.9,316,Female,87.6
+678,2015,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.6,59.3,73.9,446,Overall,87.6
+679,2015,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,58.6,48.0,69.2,195,Male,87.6
+680,2015,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.9,70.5,85.3,251,Female,87.6
+681,2015,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.4,26.1,40.7,446,Overall,87.6
+682,2015,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,41.4,30.8,52.0,195,Male,87.6
+683,2015,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.1,14.7,29.5,251,Female,87.6
+684,2014,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.9,57.5,70.3,563,Overall,87.6
+685,2014,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.7,56.1,73.3,263,Male,87.6
+686,2014,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.7,53.2,72.2,300,Female,87.6
+687,2014,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.1,29.7,42.5,563,Overall,87.6
+688,2014,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.3,26.7,43.9,263,Male,87.6
+689,2014,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.3,27.8,46.8,300,Female,87.6
+690,2013,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.1,62.6,73.6,888,Overall,87.6
+691,2013,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.8,55.3,72.3,388,Male,87.6
+692,2013,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,66.7,79.5,500,Female,87.6
+693,2013,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.9,26.4,37.4,888,Overall,87.6
+694,2013,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.2,27.7,44.7,388,Male,87.6
+695,2013,Nevada,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,20.5,33.3,500,Female,87.6
+696,2016,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.2,67.7,76.7,842,Overall,87.2
+697,2016,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.0,64.5,77.5,400,Male,87.2
+698,2016,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.5,67.2,79.8,442,Female,87.2
+699,2016,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.8,23.3,32.3,842,Overall,87.2
+700,2016,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.0,22.5,35.5,400,Male,87.2
+701,2016,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.5,20.2,32.8,442,Female,87.2
+702,2015,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.8,66.6,75.0,873,Overall,87.2
+703,2015,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,63.8,76.2,371,Male,87.2
+704,2015,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.7,66.2,77.2,502,Female,87.2
+705,2015,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.2,25.0,33.4,873,Overall,87.2
+706,2015,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,23.8,36.2,371,Male,87.2
+707,2015,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.3,22.8,33.8,502,Female,87.2
+708,2014,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.9,69.9,77.9,852,Overall,87.2
+709,2014,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.9,68.9,80.9,354,Male,87.2
+710,2014,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,67.6,78.2,498,Female,87.2
+711,2014,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.1,22.1,30.1,852,Overall,87.2
+712,2014,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.1,19.1,31.1,354,Male,87.2
+713,2014,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,21.8,32.4,498,Female,87.2
+714,2013,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.8,72.0,79.6,847,Overall,87.2
+715,2013,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.7,69.0,80.4,374,Male,87.2
+716,2013,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.0,71.9,82.1,473,Female,87.2
+717,2013,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.2,20.4,28.0,847,Overall,87.2
+718,2013,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.3,19.6,31.0,374,Male,87.2
+719,2013,New Hampshire,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.0,17.9,28.1,473,Female,87.2
+720,2016,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.5,61.6,71.4,977,Overall,85.9
+721,2016,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.1,59.1,73.1,454,Male,85.9
+722,2016,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,60.1,73.7,523,Female,85.9
+723,2016,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.5,28.6,38.4,977,Overall,85.9
+724,2016,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.9,26.9,40.9,454,Male,85.9
+725,2016,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,26.3,39.9,523,Female,85.9
+726,2015,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.2,59.1,67.3,1448,Overall,85.9
+727,2015,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.8,57.0,68.6,629,Male,85.9
+728,2015,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.9,58.1,69.7,819,Female,85.9
+729,2015,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.8,32.7,40.9,1448,Overall,85.9
+730,2015,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.2,31.4,43.0,629,Male,85.9
+731,2015,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.1,30.3,41.9,819,Female,85.9
+732,2014,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.6,59.1,66.1,1678,Overall,85.9
+733,2014,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,60.7,55.6,65.8,734,Male,85.9
+734,2014,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.1,60.7,69.5,944,Female,85.9
+735,2014,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.4,33.9,40.9,1678,Overall,85.9
+736,2014,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,39.3,34.2,44.4,734,Male,85.9
+737,2014,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.9,30.5,39.3,944,Female,85.9
+738,2013,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.8,64.7,70.9,1918,Overall,85.9
+739,2013,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.7,63.3,72.1,895,Male,85.9
+740,2013,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.0,63.7,72.3,1023,Female,85.9
+741,2013,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.2,29.1,35.3,1918,Overall,85.9
+742,2013,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.3,27.9,36.7,895,Male,85.9
+743,2013,New Jersey,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.0,27.7,36.3,1023,Female,85.9
+744,2016,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,61.9,56.9,66.9,838,Overall,86.8
+745,2016,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,58.0,50.8,65.2,403,Male,86.8
+746,2016,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.0,60.6,73.4,435,Female,86.8
+747,2016,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,38.1,33.1,43.1,838,Overall,86.8
+748,2016,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,42.0,34.8,49.2,403,Male,86.8
+749,2016,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.0,26.6,39.4,435,Female,86.8
+750,2015,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.5,59.9,69.1,956,Overall,86.8
+751,2015,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.0,57.4,70.6,436,Male,86.8
+752,2015,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.0,58.8,71.2,520,Female,86.8
+753,2015,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.5,30.9,40.1,956,Overall,86.8
+754,2015,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.0,29.4,42.6,436,Male,86.8
+755,2015,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.0,28.8,41.2,520,Female,86.8
+756,2014,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.1,62.2,70.0,1322,Overall,86.8
+757,2014,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.5,59.9,71.1,627,Male,86.8
+758,2014,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,61.5,72.3,695,Female,86.8
+759,2014,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.9,30.0,37.8,1322,Overall,86.8
+760,2014,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.5,28.9,40.1,627,Male,86.8
+761,2014,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,27.7,38.5,695,Female,86.8
+762,2013,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.3,62.9,69.7,1543,Overall,86.8
+763,2013,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.8,61.0,70.6,744,Male,86.8
+764,2013,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.8,62.1,71.5,799,Female,86.8
+765,2013,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.7,30.3,37.1,1543,Overall,86.8
+766,2013,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.2,29.4,39.0,744,Male,86.8
+767,2013,New Mexico,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.2,28.5,37.9,799,Female,86.8
+768,2016,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.4,62.6,68.2,5228,Overall,83.5
+769,2016,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.0,60.0,68.0,2470,Male,83.5
+770,2016,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.1,63.2,71.0,2758,Female,83.5
+771,2016,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.6,31.8,37.4,5228,Overall,83.5
+772,2016,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.0,32.0,40.0,2470,Male,83.5
+773,2016,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.9,29.0,36.8,2758,Female,83.5
+774,2015,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,63.7,70.1,1574,Overall,83.5
+775,2015,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.2,60.6,69.8,728,Male,83.5
+776,2015,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.0,64.9,73.1,846,Female,83.5
+777,2015,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,29.9,36.3,1574,Overall,83.5
+778,2015,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.8,30.2,39.4,728,Male,83.5
+779,2015,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.0,26.9,35.1,846,Female,83.5
+780,2014,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.8,61.8,69.8,835,Overall,83.5
+781,2014,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.7,58.9,70.5,404,Male,83.5
+782,2014,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.2,61.7,72.7,431,Female,83.5
+783,2014,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.2,30.2,38.2,835,Overall,83.5
+784,2014,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.3,29.5,41.1,404,Male,83.5
+785,2014,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.8,27.3,38.3,431,Female,83.5
+786,2013,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.4,63.9,70.9,1194,Overall,83.5
+787,2013,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.6,59.5,69.7,584,Male,83.5
+788,2013,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.8,66.0,75.6,610,Female,83.5
+789,2013,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.6,29.1,36.1,1194,Overall,83.5
+790,2013,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.4,30.3,40.5,584,Male,83.5
+791,2013,New York,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.2,24.4,34.0,610,Female,83.5
+792,2016,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,67.4,74.4,1077,Overall,81.4
+793,2016,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,64.5,74.3,564,Male,81.4
+794,2016,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,67.9,77.5,513,Female,81.4
+795,2016,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,25.6,32.6,1077,Overall,81.4
+796,2016,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,25.7,35.5,564,Male,81.4
+797,2016,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,22.5,32.1,513,Female,81.4
+798,2015,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.3,68.1,74.5,1088,Overall,81.4
+799,2015,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,65.5,74.5,549,Male,81.4
+800,2015,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.0,68.6,77.4,539,Female,81.4
+801,2015,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.7,25.5,31.9,1088,Overall,81.4
+802,2015,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,25.5,34.5,549,Male,81.4
+803,2015,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.0,22.6,31.4,539,Female,81.4
+804,2014,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.0,64.8,71.2,1165,Overall,81.4
+805,2014,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.1,60.5,69.7,589,Male,81.4
+806,2014,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,67.2,75.8,576,Female,81.4
+807,2014,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.0,28.8,35.2,1165,Overall,81.4
+808,2014,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.9,30.3,39.5,589,Male,81.4
+809,2014,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,24.2,32.8,576,Female,81.4
+810,2013,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.1,67.0,73.2,1543,Overall,81.4
+811,2013,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.4,64.0,72.8,699,Male,81.4
+812,2013,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.2,68.0,76.4,844,Female,81.4
+813,2013,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.9,26.8,33.0,1543,Overall,81.4
+814,2013,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.6,27.2,36.0,699,Male,81.4
+815,2013,North Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.8,23.6,32.0,844,Female,81.4
+816,2016,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,67.0,74.8,838,Overall,87.0
+817,2016,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,65.9,75.9,473,Male,87.0
+818,2016,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.0,64.7,77.3,365,Female,87.0
+819,2016,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,25.2,33.0,838,Overall,87.0
+820,2016,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,24.1,34.1,473,Male,87.0
+821,2016,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.0,22.7,35.3,365,Female,87.0
+822,2015,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.0,68.7,77.3,725,Overall,87.0
+823,2015,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.0,67.3,78.7,391,Male,87.0
+824,2015,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,66.6,79.2,334,Female,87.0
+825,2015,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.0,22.7,31.3,725,Overall,87.0
+826,2015,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.0,21.3,32.7,391,Male,87.0
+827,2015,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,20.8,33.4,334,Female,87.0
+828,2014,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.3,68.3,76.3,1163,Overall,87.0
+829,2014,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.6,69.4,79.8,546,Male,87.0
+830,2014,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.8,62.5,75.1,617,Female,87.0
+831,2014,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.7,23.7,31.7,1163,Overall,87.0
+832,2014,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.4,20.2,30.6,546,Male,87.0
+833,2014,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.2,24.9,37.5,617,Female,87.0
+834,2013,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.8,70.3,77.3,1336,Overall,87.0
+835,2013,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.8,72.3,81.3,672,Male,87.0
+836,2013,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,64.6,75.8,664,Female,87.0
+837,2013,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.2,22.7,29.7,1336,Overall,87.0
+838,2013,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.2,18.7,27.7,672,Male,87.0
+839,2013,North Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,24.2,35.4,664,Female,87.0
+840,2016,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.5,73.8,79.2,2169,Overall,77.8
+841,2016,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.0,71.1,78.9,978,Male,77.8
+842,2016,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.3,74.7,81.9,1191,Female,77.8
+843,2016,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.5,20.8,26.2,2169,Overall,77.8
+844,2016,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.0,21.1,28.9,978,Male,77.8
+845,2016,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.7,18.1,25.3,1191,Female,77.8
+846,2015,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,69.3,76.1,1929,Overall,77.8
+847,2015,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,65.6,75.6,855,Male,77.8
+848,2015,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.0,70.3,79.7,1074,Female,77.8
+849,2015,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.9,30.7,1929,Overall,77.8
+850,2015,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,24.4,34.4,855,Male,77.8
+851,2015,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.0,20.3,29.7,1074,Female,77.8
+852,2014,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.1,70.9,77.3,1834,Overall,77.8
+853,2014,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.0,68.0,78.0,773,Male,77.8
+854,2014,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.2,71.1,79.3,1061,Female,77.8
+855,2014,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.9,22.7,29.1,1834,Overall,77.8
+856,2014,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.0,22.0,32.0,773,Male,77.8
+857,2014,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.8,20.7,28.9,1061,Female,77.8
+858,2013,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.3,73.8,78.8,2371,Overall,77.8
+859,2013,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.1,73.4,80.8,997,Male,77.8
+860,2013,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.5,72.2,78.8,1374,Female,77.8
+861,2013,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.7,21.2,26.2,2371,Overall,77.8
+862,2013,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.9,19.2,26.6,997,Male,77.8
+863,2013,Ohio,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.5,21.2,27.8,1374,Female,77.8
+864,2016,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.7,68.0,75.4,1010,Overall,82.5
+865,2016,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.0,66.4,77.6,445,Male,82.5
+866,2016,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.3,66.5,76.1,565,Female,82.5
+867,2016,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.3,24.6,32.0,1010,Overall,82.5
+868,2016,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.0,22.4,33.6,445,Male,82.5
+869,2016,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.7,23.9,33.5,565,Female,82.5
+870,2015,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.1,68.2,76.0,1148,Overall,82.5
+871,2015,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,65.7,77.3,505,Male,82.5
+872,2015,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.8,67.8,77.8,643,Female,82.5
+873,2015,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.9,24.0,31.8,1148,Overall,82.5
+874,2015,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,22.7,34.3,505,Male,82.5
+875,2015,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.2,22.2,32.2,643,Female,82.5
+876,2014,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.7,68.6,74.8,1427,Overall,82.5
+877,2014,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.4,65.8,75.0,648,Male,82.5
+878,2014,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,69.2,77.0,779,Female,82.5
+879,2014,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.3,25.2,31.4,1427,Overall,82.5
+880,2014,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.6,25.0,34.2,648,Male,82.5
+881,2014,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,23.0,30.8,779,Female,82.5
+882,2013,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.3,70.5,76.1,1567,Overall,82.5
+883,2013,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,68.6,76.8,689,Male,82.5
+884,2013,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.0,70.2,77.8,878,Female,82.5
+885,2013,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.7,23.9,29.5,1567,Overall,82.5
+886,2013,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.2,31.4,689,Male,82.5
+887,2013,Oklahoma,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.0,22.2,29.8,878,Female,82.5
+888,2016,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.5,68.7,76.3,717,Overall,92.5
+889,2016,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.8,67.4,78.2,344,Male,92.5
+890,2016,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.1,66.7,77.5,373,Female,92.5
+891,2016,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.5,23.7,31.3,717,Overall,92.5
+892,2016,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.2,21.8,32.6,344,Male,92.5
+893,2016,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.9,22.5,33.3,373,Female,92.5
+894,2015,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.8,63.4,72.2,716,Overall,92.5
+895,2015,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,61.8,74.8,340,Male,92.5
+896,2015,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.3,61.4,73.2,376,Female,92.5
+897,2015,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.2,27.8,36.6,716,Overall,92.5
+898,2015,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,25.2,38.2,340,Male,92.5
+899,2015,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.7,26.8,38.6,376,Female,92.5
+900,2014,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,67.3,75.7,667,Overall,92.5
+901,2014,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.3,63.3,75.3,319,Male,92.5
+902,2014,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.9,68.3,79.5,348,Female,92.5
+903,2014,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,24.3,32.7,667,Overall,92.5
+904,2014,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.7,24.7,36.7,319,Male,92.5
+905,2014,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.1,20.5,31.7,348,Female,92.5
+906,2013,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.6,69.4,77.8,800,Overall,92.5
+907,2013,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.7,67.8,79.6,375,Male,92.5
+908,2013,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.6,67.7,79.5,425,Female,92.5
+909,2013,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.4,22.2,30.6,800,Overall,92.5
+910,2013,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.3,20.4,32.2,375,Male,92.5
+911,2013,Oregon,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.4,20.5,32.3,425,Female,92.5
+912,2016,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.6,68.1,75.1,1045,Overall,82.8
+913,2016,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.2,63.2,73.2,500,Male,82.8
+914,2016,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.5,70.9,80.1,545,Female,82.8
+915,2016,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.4,24.9,31.9,1045,Overall,82.8
+916,2016,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.8,26.8,36.8,500,Male,82.8
+917,2016,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.5,19.9,29.1,545,Female,82.8
+918,2015,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.2,69.4,77.0,908,Overall,82.8
+919,2015,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.3,64.5,76.1,435,Male,82.8
+920,2015,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.4,71.6,81.2,473,Female,82.8
+921,2015,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.8,23.0,30.6,908,Overall,82.8
+922,2015,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.7,23.9,35.5,435,Male,82.8
+923,2015,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.6,18.8,28.4,473,Female,82.8
+924,2014,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,67.0,73.0,1809,Overall,82.8
+925,2014,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.9,62.2,71.6,748,Male,82.8
+926,2014,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,69.4,76.8,1061,Female,82.8
+927,2014,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,27.0,33.0,1809,Overall,82.8
+928,2014,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.1,28.4,37.8,748,Male,82.8
+929,2014,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,23.2,30.6,1061,Female,82.8
+930,2013,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.8,72.2,77.4,2003,Overall,82.8
+931,2013,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.5,69.8,77.2,930,Male,82.8
+932,2013,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.3,72.7,79.9,1073,Female,82.8
+933,2013,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.2,22.6,27.8,2003,Overall,82.8
+934,2013,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.5,22.8,30.2,930,Male,82.8
+935,2013,Pennsylvania,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.7,20.1,27.3,1073,Female,82.8
+936,2016,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.7,60.5,70.9,730,Overall,87.3
+937,2016,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.5,56.8,72.2,335,Male,87.3
+938,2016,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.2,60.8,73.6,395,Female,87.3
+939,2016,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.3,29.1,39.5,730,Overall,87.3
+940,2016,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.5,27.8,43.2,335,Male,87.3
+941,2016,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.8,26.4,39.2,395,Female,87.3
+942,2015,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.1,64.0,74.2,778,Overall,87.3
+943,2015,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.8,59.2,74.4,348,Male,87.3
+944,2015,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.1,65.9,78.3,430,Female,87.3
+945,2015,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.9,25.8,36.0,778,Overall,87.3
+946,2015,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.2,25.6,40.8,348,Male,87.3
+947,2015,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.9,21.7,34.1,430,Female,87.3
+948,2014,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,65.3,74.1,822,Overall,87.3
+949,2014,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.2,59.5,72.9,351,Male,87.3
+950,2014,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.1,68.8,79.4,471,Female,87.3
+951,2014,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,25.9,34.7,822,Overall,87.3
+952,2014,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.8,27.1,40.5,351,Male,87.3
+953,2014,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.9,20.6,31.2,471,Female,87.3
+954,2013,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.8,67.8,75.8,909,Overall,87.3
+955,2013,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.1,66.3,77.9,393,Male,87.3
+956,2013,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,66.0,77.0,516,Female,87.3
+957,2013,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.2,24.2,32.2,909,Overall,87.3
+958,2013,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.9,22.1,33.7,393,Male,87.3
+959,2013,Rhode Island,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,23.0,34.0,516,Female,87.3
+960,2016,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.0,61.8,68.2,1703,Overall,83.0
+961,2016,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.8,61.1,70.5,795,Male,83.0
+962,2016,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.1,59.7,68.5,908,Female,83.0
+963,2016,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.0,31.8,38.2,1703,Overall,83.0
+964,2016,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.2,29.5,38.9,795,Male,83.0
+965,2016,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.9,31.5,40.3,908,Female,83.0
+966,2015,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.6,66.6,72.6,1791,Overall,83.0
+967,2015,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,66.3,74.9,880,Male,83.0
+968,2015,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,64.1,72.5,911,Female,83.0
+969,2015,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.4,27.4,33.4,1791,Overall,83.0
+970,2015,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,25.1,33.7,880,Male,83.0
+971,2015,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,27.5,35.9,911,Female,83.0
+972,2014,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.9,66.1,71.7,1829,Overall,83.0
+973,2014,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.3,66.4,74.2,890,Male,83.0
+974,2014,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.3,63.2,71.4,939,Female,83.0
+975,2014,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.1,28.3,33.9,1829,Overall,83.0
+976,2014,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.7,25.8,33.6,890,Male,83.0
+977,2014,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.7,28.6,36.8,939,Female,83.0
+978,2013,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,67.4,73.0,1794,Overall,83.0
+979,2013,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,65.8,73.6,880,Male,83.0
+980,2013,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.7,66.5,74.9,914,Female,83.0
+981,2013,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,27.0,32.6,1794,Overall,83.0
+982,2013,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,26.4,34.2,880,Male,83.0
+983,2013,South Carolina,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.3,25.1,33.5,914,Female,83.0
+984,2016,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.2,63.7,74.7,861,Overall,85.4
+985,2016,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.2,59.3,75.1,397,Male,85.4
+986,2016,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.1,65.2,79.0,464,Female,85.4
+987,2016,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.8,25.3,36.3,861,Overall,85.4
+988,2016,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.8,24.9,40.7,397,Male,85.4
+989,2016,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.9,21.0,34.8,464,Female,85.4
+990,2015,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.6,65.0,74.2,1114,Overall,85.4
+991,2015,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.6,66.2,79.0,474,Male,85.4
+992,2015,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.8,60.2,73.4,640,Female,85.4
+993,2015,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.4,25.8,35.0,1114,Overall,85.4
+994,2015,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.4,21.0,33.8,474,Male,85.4
+995,2015,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.2,26.6,39.8,640,Female,85.4
+996,2014,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.5,65.0,74.0,1170,Overall,85.4
+997,2014,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.2,62.8,75.6,532,Male,85.4
+998,2014,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.7,63.5,75.9,638,Female,85.4
+999,2014,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.5,26.0,35.0,1170,Overall,85.4
+1000,2014,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.8,24.4,37.2,532,Male,85.4
+1001,2014,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.3,24.1,36.5,638,Female,85.4
+1002,2013,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.8,64.6,73.0,1207,Overall,85.4
+1003,2013,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.8,61.7,73.9,525,Male,85.4
+1004,2013,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.8,64.2,75.4,682,Female,85.4
+1005,2013,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.2,27.0,35.4,1207,Overall,85.4
+1006,2013,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.2,26.1,38.3,525,Male,85.4
+1007,2013,South Dakota,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.2,24.6,35.8,682,Female,85.4
+1008,2016,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.5,64.5,72.5,1177,Overall,80.5
+1009,2016,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.7,58.5,70.9,525,Male,80.5
+1010,2016,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.8,67.9,77.7,652,Female,80.5
+1011,2016,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.5,27.5,35.5,1177,Overall,80.5
+1012,2016,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.3,29.1,41.5,525,Male,80.5
+1013,2016,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.2,22.3,32.1,652,Female,80.5
+1014,2015,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.4,68.6,76.2,1105,Overall,80.5
+1015,2015,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.0,69.5,80.5,446,Male,80.5
+1016,2015,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.8,64.6,75.0,659,Female,80.5
+1017,2015,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.6,23.8,31.4,1105,Overall,80.5
+1018,2015,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.0,19.5,30.5,446,Male,80.5
+1019,2015,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.2,25.0,35.4,659,Female,80.5
+1020,2014,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.4,73.3,81.5,969,Overall,80.5
+1021,2014,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.5,72.3,84.7,395,Male,80.5
+1022,2014,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.1,70.8,81.4,574,Female,80.5
+1023,2014,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.6,18.5,26.7,969,Overall,80.5
+1024,2014,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.5,15.3,27.7,395,Male,80.5
+1025,2014,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.9,18.6,29.2,574,Female,80.5
+1026,2013,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.6,72.1,79.1,1175,Overall,80.5
+1027,2013,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.2,67.6,78.8,439,Male,80.5
+1028,2013,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.3,74.5,82.1,736,Female,80.5
+1029,2013,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.4,20.9,27.9,1175,Overall,80.5
+1030,2013,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.8,21.2,32.4,439,Male,80.5
+1031,2013,Tennessee,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.7,17.9,25.5,736,Female,80.5
+1032,2016,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.2,54.8,63.6,1459,Overall,89.0
+1033,2016,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,58.5,52.6,64.4,731,Male,89.0
+1034,2016,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,60.2,53.5,66.9,728,Female,89.0
+1035,2016,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,40.8,36.4,45.2,1459,Overall,89.0
+1036,2016,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,41.5,35.6,47.4,731,Male,89.0
+1037,2016,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,39.8,33.1,46.5,728,Female,89.0
+1038,2015,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.3,58.3,66.3,1817,Overall,89.0
+1039,2015,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.0,53.5,64.5,872,Male,89.0
+1040,2015,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.0,61.0,73.0,945,Female,89.0
+1041,2015,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.7,33.7,41.7,1817,Overall,89.0
+1042,2015,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,41.0,35.5,46.5,872,Male,89.0
+1043,2015,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.0,27.0,39.0,945,Female,89.0
+1044,2014,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,59.5,55.9,63.1,1848,Overall,89.0
+1045,2014,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,55.7,50.6,60.8,825,Male,89.0
+1046,2014,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.4,59.6,69.2,1023,Female,89.0
+1047,2014,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,40.5,36.9,44.1,1848,Overall,89.0
+1048,2014,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,44.3,39.2,49.4,825,Male,89.0
+1049,2014,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.6,30.8,40.4,1023,Female,89.0
+1050,2013,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.1,58.5,65.7,1465,Overall,89.0
+1051,2013,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,60.6,55.5,65.7,712,Male,89.0
+1052,2013,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.2,59.1,69.3,753,Female,89.0
+1053,2013,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.9,34.3,41.5,1465,Overall,89.0
+1054,2013,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,39.4,34.3,44.5,712,Male,89.0
+1055,2013,Texas,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.8,30.7,40.9,753,Female,89.0
+1056,2016,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.7,58.9,68.5,806,Overall,95.4
+1057,2016,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,62.9,56.6,69.2,440,Male,95.4
+1058,2016,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.8,57.6,72.0,366,Female,95.4
+1059,2016,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.3,31.5,41.1,806,Overall,95.4
+1060,2016,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,37.1,30.8,43.4,440,Male,95.4
+1061,2016,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.2,28.0,42.4,366,Female,95.4
+1062,2015,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,65.6,73.2,885,Overall,95.4
+1063,2015,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,63.2,73.4,486,Male,95.4
+1064,2015,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.3,65.5,77.1,399,Female,95.4
+1065,2015,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,26.8,34.4,885,Overall,95.4
+1066,2015,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,26.6,36.8,486,Male,95.4
+1067,2015,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.7,22.9,34.5,399,Female,95.4
+1068,2014,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.4,63.2,69.6,1213,Overall,95.4
+1069,2014,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.6,62.3,70.9,632,Male,95.4
+1070,2014,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.1,61.2,71.0,581,Female,95.4
+1071,2014,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.6,30.4,36.8,1213,Overall,95.4
+1072,2014,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.4,29.1,37.7,632,Male,95.4
+1073,2014,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.9,29.0,38.8,581,Female,95.4
+1074,2013,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.8,65.3,72.3,1102,Overall,95.4
+1075,2013,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,65.4,74.6,554,Male,95.4
+1076,2013,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.1,61.9,72.3,548,Female,95.4
+1077,2013,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.2,27.7,34.7,1102,Overall,95.4
+1078,2013,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,25.4,34.6,554,Male,95.4
+1079,2013,Utah,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.9,27.7,38.1,548,Female,95.4
+1080,2016,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.5,69.3,77.7,906,Overall,87.7
+1081,2016,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.9,63.8,76.0,451,Male,87.7
+1082,2016,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,78.1,72.6,83.6,455,Female,87.7
+1083,2016,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.5,22.3,30.7,906,Overall,87.7
+1084,2016,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.1,24.0,36.2,451,Male,87.7
+1085,2016,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,21.9,16.4,27.4,455,Female,87.7
+1086,2015,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.4,70.5,78.3,890,Overall,87.7
+1087,2015,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.1,67.5,78.7,445,Male,87.7
+1088,2015,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.1,70.6,81.6,445,Female,87.7
+1089,2015,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.6,21.7,29.5,890,Overall,87.7
+1090,2015,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.9,21.3,32.5,445,Male,87.7
+1091,2015,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,23.9,18.4,29.4,445,Female,87.7
+1092,2014,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.5,67.9,75.1,867,Overall,87.7
+1093,2014,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,67.7,78.1,414,Male,87.7
+1094,2014,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.0,65.1,74.9,453,Female,87.7
+1095,2014,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.5,24.9,32.1,867,Overall,87.7
+1096,2014,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,21.9,32.3,414,Male,87.7
+1097,2014,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.0,25.1,34.9,453,Female,87.7
+1098,2013,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.3,71.7,78.9,879,Overall,87.7
+1099,2013,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,76.0,70.8,81.2,419,Male,87.7
+1100,2013,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.4,69.5,79.3,460,Female,87.7
+1101,2013,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.7,21.1,28.3,879,Overall,87.7
+1102,2013,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.0,18.8,29.2,419,Male,87.7
+1103,2013,Vermont,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.6,20.7,30.5,460,Female,87.7
+1104,2016,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,69.8,76.0,1262,Overall,86.8
+1105,2016,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,68.6,77.2,605,Male,86.8
+1106,2016,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.9,68.5,77.3,657,Female,86.8
+1107,2016,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,24.0,30.2,1262,Overall,86.8
+1108,2016,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,22.8,31.4,605,Male,86.8
+1109,2016,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.1,22.7,31.5,657,Female,86.8
+1110,2015,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.4,68.0,74.8,1247,Overall,86.8
+1111,2015,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.3,63.2,73.4,576,Male,86.8
+1112,2015,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.2,71.0,79.4,671,Female,86.8
+1113,2015,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.6,25.2,32.0,1247,Overall,86.8
+1114,2015,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.7,26.6,36.8,576,Male,86.8
+1115,2015,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,24.8,20.6,29.0,671,Female,86.8
+1116,2014,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.6,68.5,74.7,1457,Overall,86.8
+1117,2014,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.3,64.9,73.7,680,Male,86.8
+1118,2014,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.4,70.3,78.5,777,Female,86.8
+1119,2014,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.4,25.3,31.5,1457,Overall,86.8
+1120,2014,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.7,26.3,35.1,680,Male,86.8
+1121,2014,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.6,21.5,29.7,777,Female,86.8
+1122,2013,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.5,67.3,73.7,1393,Overall,86.8
+1123,2013,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.8,64.1,73.5,627,Male,86.8
+1124,2013,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,68.6,76.8,766,Female,86.8
+1125,2013,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.5,26.3,32.7,1393,Overall,86.8
+1126,2013,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.2,26.5,35.9,627,Male,86.8
+1127,2013,Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.2,31.4,766,Female,86.8
+1128,2016,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.9,62.9,68.9,1603,Overall,91.0
+1129,2016,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,63.9,59.8,68.0,797,Male,91.0
+1130,2016,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,68.5,64.4,72.6,806,Female,91.0
+1131,2016,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.1,31.1,37.1,1603,Overall,91.0
+1132,2016,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,36.1,32.0,40.2,797,Male,91.0
+1133,2016,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,31.5,27.4,35.6,806,Female,91.0
+1134,2015,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,66.6,63.6,69.6,1843,Overall,91.0
+1135,2015,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,64.3,60.0,68.6,881,Male,91.0
+1136,2015,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.4,65.3,73.5,962,Female,91.0
+1137,2015,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,33.4,30.4,36.4,1843,Overall,91.0
+1138,2015,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,35.7,31.4,40.0,881,Male,91.0
+1139,2015,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.6,26.5,34.7,962,Female,91.0
+1140,2014,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.0,67.6,74.4,1141,Overall,91.0
+1141,2014,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.9,66.0,75.8,538,Male,91.0
+1142,2014,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.2,66.5,75.9,603,Female,91.0
+1143,2014,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.0,25.6,32.4,1141,Overall,91.0
+1144,2014,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.1,24.2,34.0,538,Male,91.0
+1145,2014,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.8,24.1,33.5,603,Female,91.0
+1146,2013,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.6,67.5,73.7,1427,Overall,91.0
+1147,2013,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.5,65.1,73.9,658,Male,91.0
+1148,2013,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.9,67.6,76.2,769,Female,91.0
+1149,2013,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.4,26.3,32.5,1427,Overall,91.0
+1150,2013,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.5,26.1,34.9,658,Male,91.0
+1151,2013,Washington,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.1,23.8,32.4,769,Female,91.0
+1152,2016,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.3,76.8,81.8,1523,Overall,72.9
+1153,2016,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.2,73.5,80.9,707,Male,72.9
+1154,2016,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,81.4,78.2,84.6,816,Female,72.9
+1155,2016,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,20.7,18.2,23.2,1523,Overall,72.9
+1156,2016,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.8,19.1,26.5,707,Male,72.9
+1157,2016,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,18.6,15.4,21.8,816,Female,72.9
+1158,2015,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,81.6,79.2,84.0,1336,Overall,72.9
+1159,2015,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.6,75.9,83.3,613,Male,72.9
+1160,2015,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,83.4,80.3,86.5,723,Female,72.9
+1161,2015,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,18.4,16.0,20.8,1336,Overall,72.9
+1162,2015,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,20.4,16.7,24.1,613,Male,72.9
+1163,2015,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,16.6,13.5,19.7,723,Female,72.9
+1164,2014,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,84.4,82.1,86.7,1367,Overall,72.9
+1165,2014,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,81.0,77.2,84.8,599,Male,72.9
+1166,2014,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,87.9,85.4,90.4,768,Female,72.9
+1167,2014,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,15.6,13.3,17.9,1367,Overall,72.9
+1168,2014,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,19.0,15.2,22.8,599,Male,72.9
+1169,2014,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,12.1,9.6,14.6,768,Female,72.9
+1170,2013,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,83.5,81.2,85.8,1388,Overall,72.9
+1171,2013,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,81.7,78.1,85.3,606,Male,72.9
+1172,2013,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,85.3,82.5,88.1,782,Female,72.9
+1173,2013,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,16.5,14.2,18.8,1388,Overall,72.9
+1174,2013,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,18.3,14.7,21.9,606,Male,72.9
+1175,2013,West Virginia,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,14.7,11.9,17.5,782,Female,72.9
+1176,2016,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.7,68.5,76.9,738,Overall,84.4
+1177,2016,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.6,65.7,77.5,365,Male,84.4
+1178,2016,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.9,67.8,80.0,373,Female,84.4
+1179,2016,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.3,23.1,31.5,738,Overall,84.4
+1180,2016,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.4,22.5,34.3,365,Male,84.4
+1181,2016,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.1,20.0,32.2,373,Female,84.4
+1182,2015,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.6,60.9,70.3,948,Overall,84.4
+1183,2015,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.5,59.1,71.9,461,Male,84.4
+1184,2015,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,65.8,58.9,72.7,487,Female,84.4
+1185,2015,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.4,29.7,39.1,948,Overall,84.4
+1186,2015,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.5,28.1,40.9,461,Male,84.4
+1187,2015,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,34.2,27.3,41.1,487,Female,84.4
+1188,2014,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.1,70.3,77.9,1013,Overall,84.4
+1189,2014,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.7,68.1,79.3,462,Male,84.4
+1190,2014,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.4,69.2,79.6,551,Female,84.4
+1191,2014,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.9,22.1,29.7,1013,Overall,84.4
+1192,2014,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.3,20.7,31.9,462,Male,84.4
+1193,2014,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.6,20.4,30.8,551,Female,84.4
+1194,2013,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,69.5,65.1,73.9,1066,Overall,84.4
+1195,2013,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,67.8,61.4,74.2,501,Male,84.4
+1196,2013,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,71.6,65.8,77.4,565,Female,84.4
+1197,2013,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,30.5,26.1,34.9,1066,Overall,84.4
+1198,2013,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,32.2,25.8,38.6,501,Male,84.4
+1199,2013,Wisconsin,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,28.4,22.6,34.2,565,Female,84.4
+1200,2016,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.1,72.3,81.9,624,Overall,83.7
+1201,2016,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.5,67.3,81.7,285,Male,83.7
+1202,2016,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,79.6,73.3,85.9,339,Female,83.7
+1203,2016,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.9,18.1,27.7,624,Overall,83.7
+1204,2016,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.5,18.3,32.7,285,Male,83.7
+1205,2016,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,20.4,14.1,26.7,339,Female,83.7
+1206,2015,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.4,68.7,78.1,773,Overall,83.7
+1207,2015,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,70.2,63.5,76.9,356,Male,83.7
+1208,2015,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,77.3,70.8,83.8,417,Female,83.7
+1209,2015,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.6,21.9,31.3,773,Overall,83.7
+1210,2015,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,29.8,23.1,36.5,356,Male,83.7
+1211,2015,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,22.7,16.2,29.2,417,Female,83.7
+1212,2014,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,73.5,68.6,78.4,875,Overall,83.7
+1213,2014,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,72.3,65.0,79.6,379,Male,83.7
+1214,2014,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.8,68.3,81.3,496,Female,83.7
+1215,2014,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,26.5,21.6,31.4,875,Overall,83.7
+1216,2014,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,27.7,20.4,35.0,379,Male,83.7
+1217,2014,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.2,18.7,31.7,496,Female,83.7
+1218,2013,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.8,70.9,78.7,973,Overall,83.7
+1219,2013,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,75.0,69.3,80.7,416,Male,83.7
+1220,2013,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Every Day,74.6,69.5,79.7,557,Female,83.7
+1221,2013,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.2,21.3,29.1,973,Overall,83.7
+1222,2013,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.0,19.3,30.7,416,Male,83.7
+1223,2013,Wyoming,BRFSS,Cigarette Use (Adults),Smoking Frequency,Some Days,25.4,20.3,30.5,557,Female,83.7
+0,2016,Alabama,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.6,23.6,37.6,284,Overall,80.2
+1,2016,Alabama,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.9,24.6,45.2,131,Male,80.2
+2,2016,Alabama,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.1,16.3,31.9,153,Female,80.2
+3,2016,Alabama,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.4,62.4,76.4,284,Overall,80.2
+4,2016,Alabama,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.1,54.8,75.4,131,Male,80.2
+5,2016,Alabama,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.9,68.1,83.7,153,Female,80.2
+6,2016,Alaska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.2,16.5,45.9,88,Overall,90.9
+7,2016,Alaska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,*,*,*,*,Male,90.9
+8,2016,Alaska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,*,*,*,*,Female,90.9
+9,2016,Alaska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.8,54.1,83.5,88,Overall,90.9
+10,2016,Alaska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,*,*,*,*,Male,90.9
+11,2016,Alaska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,*,*,*,*,Female,90.9
+12,2016,Arizona,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,42.6,34.9,50.3,338,Overall,91.3
+13,2016,Arizona,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.7,28.2,49.2,151,Male,91.3
+14,2016,Arizona,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,47.8,36.7,58.9,187,Female,91.3
+15,2016,Arizona,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,57.4,49.7,65.1,338,Overall,91.3
+16,2016,Arizona,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,61.3,50.8,71.8,151,Male,91.3
+17,2016,Arizona,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,52.2,41.1,63.3,187,Female,91.3
+18,2016,Arkansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.3,25.3,47.3,177,Overall,81.2
+19,2016,Arkansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.7,21.6,51.8,72,Male,81.2
+20,2016,Arkansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,35.8,20.1,51.5,105,Female,81.2
+21,2016,Arkansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.7,52.7,74.7,177,Overall,81.2
+22,2016,Arkansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.3,48.2,78.4,72,Male,81.2
+23,2016,Arkansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,64.2,48.5,79.9,105,Female,81.2
+24,2016,California,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.3,24.7,37.9,294,Overall,92.1
+25,2016,California,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.0,23.9,40.1,183,Male,92.1
+26,2016,California,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.8,18.4,41.2,111,Female,92.1
+27,2016,California,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.7,62.1,75.3,294,Overall,92.1
+28,2016,California,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.0,59.9,76.1,183,Male,92.1
+29,2016,California,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.2,58.8,81.6,111,Female,92.1
+30,2016,Colorado,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.7,23.7,33.7,453,Overall,89.3
+31,2016,Colorado,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.1,25.3,38.9,251,Male,89.3
+32,2016,Colorado,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,23.9,16.7,31.1,202,Female,89.3
+33,2016,Colorado,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.3,66.3,76.3,453,Overall,89.3
+34,2016,Colorado,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.9,61.1,74.7,251,Male,89.3
+35,2016,Colorado,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,76.1,68.9,83.3,202,Female,89.3
+36,2016,Connecticut,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,27.2,19.6,34.8,249,Overall,86.7
+37,2016,Connecticut,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.8,15.0,34.6,134,Male,86.7
+38,2016,Connecticut,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.1,19.4,42.8,115,Female,86.7
+39,2016,Connecticut,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,72.8,65.2,80.4,249,Overall,86.7
+40,2016,Connecticut,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.2,65.4,85.0,134,Male,86.7
+41,2016,Connecticut,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.9,57.2,80.6,115,Female,86.7
+42,2016,Delaware,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,42.5,30.9,54.1,134,Overall,84.0
+43,2016,Delaware,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,48.4,34.2,62.6,78,Male,84.0
+44,2016,Delaware,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.1,12.8,51.4,56,Female,84.0
+45,2016,Delaware,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,57.5,45.9,69.1,134,Overall,84.0
+46,2016,Delaware,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,51.6,37.4,65.8,78,Male,84.0
+47,2016,Delaware,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.9,48.6,87.2,56,Female,84.0
+48,2016,District of Columbia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,15.2,5.3,25.1,63,Overall,83.3
+49,2016,District of Columbia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,*,*,*,*,Male,83.3
+50,2016,District of Columbia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,*,*,*,*,Female,83.3
+51,2016,District of Columbia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,84.8,74.9,94.7,63,Overall,83.3
+52,2016,District of Columbia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,*,*,*,*,Male,83.3
+53,2016,District of Columbia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,*,*,*,*,Female,83.3
+54,2016,Florida,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.3,31.2,41.4,1349,Overall,88.8
+55,2016,Florida,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.5,32.4,46.6,649,Male,88.8
+56,2016,Florida,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.0,24.6,39.4,700,Female,88.8
+57,2016,Florida,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.7,58.6,68.8,1349,Overall,88.8
+58,2016,Florida,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.5,53.4,67.6,649,Male,88.8
+59,2016,Florida,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.0,60.6,75.4,700,Female,88.8
+60,2016,Georgia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.4,20.9,37.9,187,Overall,86.5
+61,2016,Georgia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.3,18.5,42.1,97,Male,86.5
+62,2016,Georgia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.1,16.3,39.9,90,Female,86.5
+63,2016,Georgia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.6,62.1,79.1,187,Overall,86.5
+64,2016,Georgia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.7,57.9,81.5,97,Male,86.5
+65,2016,Georgia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.9,60.1,83.7,90,Female,86.5
+66,2016,Hawaii,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,41.2,33.2,49.2,235,Overall,87.4
+67,2016,Hawaii,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,44.2,34.2,54.2,147,Male,87.4
+68,2016,Hawaii,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.0,21.4,46.6,88,Female,87.4
+69,2016,Hawaii,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,58.8,50.8,66.8,235,Overall,87.4
+70,2016,Hawaii,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,55.8,45.8,65.8,147,Male,87.4
+71,2016,Hawaii,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,66.0,53.4,78.6,88,Female,87.4
+72,2016,Idaho,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.5,28.7,50.3,152,Overall,91.0
+73,2016,Idaho,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,42.0,25.4,58.6,61,Male,91.0
+74,2016,Idaho,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.9,23.6,50.2,91,Female,91.0
+75,2016,Idaho,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.5,49.7,71.3,152,Overall,91.0
+76,2016,Idaho,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,58.0,41.4,74.6,61,Male,91.0
+77,2016,Idaho,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.1,49.8,76.4,91,Female,91.0
+78,2016,Illinois,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.9,30.1,49.7,142,Overall,84.5
+79,2016,Illinois,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,43.8,30.1,57.5,76,Male,84.5
+80,2016,Illinois,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.6,21.7,47.5,66,Female,84.5
+81,2016,Illinois,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.1,50.3,69.9,142,Overall,84.5
+82,2016,Illinois,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,56.2,42.5,69.9,76,Male,84.5
+83,2016,Illinois,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.4,52.5,78.3,66,Female,84.5
+84,2016,Indiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,35.4,28.6,42.2,352,Overall,78.8
+85,2016,Indiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.7,28.5,48.9,149,Male,78.8
+86,2016,Indiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.9,22.9,40.9,203,Female,78.8
+87,2016,Indiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,64.6,57.8,71.4,352,Overall,78.8
+88,2016,Indiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,61.3,51.1,71.5,149,Male,78.8
+89,2016,Indiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.1,59.1,77.1,203,Female,78.8
+90,2016,Iowa,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.2,26.3,42.1,211,Overall,86.4
+91,2016,Iowa,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,40.2,28.8,51.6,101,Male,86.4
+92,2016,Iowa,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,27.7,17.0,38.4,110,Female,86.4
+93,2016,Iowa,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.8,57.9,73.7,211,Overall,86.4
+94,2016,Iowa,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,59.8,48.4,71.2,101,Male,86.4
+95,2016,Iowa,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,72.3,61.6,83.0,110,Female,86.4
+96,2016,Kansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.3,28.7,39.9,429,Overall,81.7
+97,2016,Kansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.5,24.6,38.4,234,Male,81.7
+98,2016,Kansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.7,29.5,47.9,195,Female,81.7
+99,2016,Kansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.7,60.1,71.3,429,Overall,81.7
+100,2016,Kansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.5,61.6,75.4,234,Male,81.7
+101,2016,Kansas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,61.3,52.1,70.5,195,Female,81.7
+102,2016,Kentucky,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.4,31.7,45.1,453,Overall,74.1
+103,2016,Kentucky,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,41.3,31.4,51.2,207,Male,74.1
+104,2016,Kentucky,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.9,26.3,43.5,246,Female,74.1
+105,2016,Kentucky,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,61.6,54.9,68.3,453,Overall,74.1
+106,2016,Kentucky,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,58.7,48.8,68.6,207,Male,74.1
+107,2016,Kentucky,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.1,56.5,73.7,246,Female,74.1
+108,2016,Louisiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.1,21.4,40.8,164,Overall,82.6
+109,2016,Louisiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.8,25.9,53.7,85,Male,82.6
+110,2016,Louisiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,18.3,8.4,28.2,79,Female,82.6
+111,2016,Louisiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.9,59.2,78.6,164,Overall,82.6
+112,2016,Louisiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.2,46.3,74.1,85,Male,82.6
+113,2016,Louisiana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,81.7,71.8,91.6,79,Female,82.6
+114,2016,Maine,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.1,16.6,31.6,250,Overall,84.5
+115,2016,Maine,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.1,18.7,39.5,141,Male,84.5
+116,2016,Maine,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,15.3,6.6,24.0,109,Female,84.5
+117,2016,Maine,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.9,68.4,83.4,250,Overall,84.5
+118,2016,Maine,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.9,60.5,81.3,141,Male,84.5
+119,2016,Maine,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,84.7,76.0,93.4,109,Female,84.5
+120,2016,Maryland,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.7,23.8,37.6,403,Overall,87.9
+121,2016,Maryland,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.2,26.9,45.5,215,Male,87.9
+122,2016,Maryland,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,19.4,11.9,26.9,188,Female,87.9
+123,2016,Maryland,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.3,62.4,76.2,403,Overall,87.9
+124,2016,Maryland,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.8,54.5,73.1,215,Male,87.9
+125,2016,Maryland,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,80.6,73.1,88.1,188,Female,87.9
+126,2016,Massachusetts,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,37.6,29.0,46.2,240,Overall,88.0
+127,2016,Massachusetts,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,40.2,29.1,51.3,148,Male,88.0
+128,2016,Massachusetts,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.7,19.9,45.5,92,Female,88.0
+129,2016,Massachusetts,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,62.4,53.8,71.0,240,Overall,88.0
+130,2016,Massachusetts,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,59.8,48.7,70.9,148,Male,88.0
+131,2016,Massachusetts,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.3,54.5,80.1,92,Female,88.0
+132,2016,Michigan,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,19.8,15.6,24.0,448,Overall,80.8
+133,2016,Michigan,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,20.3,14.3,26.3,223,Male,80.8
+134,2016,Michigan,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,19.2,13.2,25.2,225,Female,80.8
+135,2016,Michigan,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,80.2,76.0,84.4,448,Overall,80.8
+136,2016,Michigan,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,79.7,73.7,85.7,223,Male,80.8
+137,2016,Michigan,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,80.8,74.8,86.8,225,Female,80.8
+138,2016,Minnesota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.2,29.1,39.3,480,Overall,87.1
+139,2016,Minnesota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.5,31.8,45.2,285,Male,87.1
+140,2016,Minnesota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,26.9,19.8,34.0,195,Female,87.1
+141,2016,Minnesota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.8,60.7,70.9,480,Overall,87.1
+142,2016,Minnesota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,61.5,54.8,68.2,285,Male,87.1
+143,2016,Minnesota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,73.1,66.0,80.2,195,Female,87.1
+144,2016,Mississippi,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,22.5,14.3,30.7,157,Overall,78.1
+145,2016,Mississippi,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,25.1,12.7,37.5,67,Male,78.1
+146,2016,Mississippi,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,19.1,9.2,29.0,90,Female,78.1
+147,2016,Mississippi,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,77.5,69.3,85.7,157,Overall,78.1
+148,2016,Mississippi,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,74.9,62.5,87.3,67,Male,78.1
+149,2016,Mississippi,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,80.9,71.0,90.8,90,Female,78.1
+150,2016,Missouri,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,27.0,19.5,34.5,250,Overall,82.8
+151,2016,Missouri,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,26.2,15.9,36.5,124,Male,82.8
+152,2016,Missouri,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.0,16.9,39.1,126,Female,82.8
+153,2016,Missouri,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,73.0,65.5,80.5,250,Overall,82.8
+154,2016,Missouri,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,73.8,63.5,84.1,124,Male,82.8
+155,2016,Missouri,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,72.0,60.9,83.1,126,Female,82.8
+156,2016,Montana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,25.4,15.9,34.9,132,Overall,86.3
+157,2016,Montana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,37.9,23.3,52.5,71,Male,86.3
+158,2016,Montana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,11.5,3.4,19.6,61,Female,86.3
+159,2016,Montana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,74.6,65.1,84.1,132,Overall,86.3
+160,2016,Montana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,62.1,47.5,76.7,71,Male,86.3
+161,2016,Montana,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,88.5,80.4,96.6,61,Female,86.3
+162,2016,Nebraska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.6,23.5,35.7,475,Overall,87.3
+163,2016,Nebraska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.2,20.3,36.1,237,Male,87.3
+164,2016,Nebraska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.1,21.8,40.4,238,Female,87.3
+165,2016,Nebraska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.4,64.3,76.5,475,Overall,87.3
+166,2016,Nebraska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.8,63.9,79.7,237,Male,87.3
+167,2016,Nebraska,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.9,59.6,78.2,238,Female,87.3
+168,2016,Nevada,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,41.9,32.3,51.5,208,Overall,87.6
+169,2016,Nevada,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,43.5,30.2,56.8,102,Male,87.6
+170,2016,Nevada,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.7,26.1,53.3,106,Female,87.6
+171,2016,Nevada,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,58.1,48.5,67.7,208,Overall,87.6
+172,2016,Nevada,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,56.5,43.2,69.8,102,Male,87.6
+173,2016,Nevada,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.3,46.7,73.9,106,Female,87.6
+174,2016,New Hampshire,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.1,24.6,43.6,175,Overall,87.2
+175,2016,New Hampshire,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.6,27.8,51.4,113,Male,87.2
+176,2016,New Hampshire,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,23.4,9.3,37.5,62,Female,87.2
+177,2016,New Hampshire,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.9,56.4,75.4,175,Overall,87.2
+178,2016,New Hampshire,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.4,48.6,72.2,113,Male,87.2
+179,2016,New Hampshire,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,76.6,62.5,90.7,62,Female,87.2
+180,2016,New Jersey,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.6,16.1,33.1,219,Overall,85.9
+181,2016,New Jersey,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,25.9,14.0,37.8,111,Male,85.9
+182,2016,New Jersey,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,22.9,10.9,34.9,108,Female,85.9
+183,2016,New Jersey,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.4,66.9,83.9,219,Overall,85.9
+184,2016,New Jersey,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,74.1,62.2,86.0,111,Male,85.9
+185,2016,New Jersey,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,77.1,65.1,89.1,108,Female,85.9
+186,2016,New Mexico,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.4,20.7,42.1,179,Overall,86.8
+187,2016,New Mexico,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.9,15.7,46.1,86,Male,86.8
+188,2016,New Mexico,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.1,17.6,46.6,93,Female,86.8
+189,2016,New Mexico,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.6,57.9,79.3,179,Overall,86.8
+190,2016,New Mexico,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.1,53.9,84.3,86,Male,86.8
+191,2016,New Mexico,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.9,53.4,82.4,93,Female,86.8
+192,2016,New York,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.6,23.5,33.7,1060,Overall,83.5
+193,2016,New York,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.5,25.5,39.5,544,Male,83.5
+194,2016,New York,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,22.1,15.3,28.9,516,Female,83.5
+195,2016,New York,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.4,66.3,76.5,1060,Overall,83.5
+196,2016,New York,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.5,60.5,74.5,544,Male,83.5
+197,2016,New York,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,77.9,71.1,84.7,516,Female,83.5
+198,2016,North Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.2,24.7,39.7,237,Overall,81.4
+199,2016,North Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.2,21.9,40.5,135,Male,81.4
+200,2016,North Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,33.8,21.4,46.2,102,Female,81.4
+201,2016,North Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.8,60.3,75.3,237,Overall,81.4
+202,2016,North Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.8,59.5,78.1,135,Male,81.4
+203,2016,North Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,66.2,53.8,78.6,102,Female,81.4
+204,2016,North Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.3,14.8,33.8,112,Overall,87.0
+205,2016,North Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.8,15.9,43.7,59,Male,87.0
+206,2016,North Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,17.6,6.3,28.9,53,Female,87.0
+207,2016,North Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.7,66.2,85.2,112,Overall,87.0
+208,2016,North Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.2,56.3,84.1,59,Male,87.0
+209,2016,North Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,82.4,71.1,93.7,53,Female,87.0
+210,2016,Ohio,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.9,22.9,34.9,457,Overall,77.8
+211,2016,Ohio,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,33.9,24.6,43.2,189,Male,77.8
+212,2016,Ohio,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.0,16.4,31.6,268,Female,77.8
+213,2016,Ohio,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.1,65.1,77.1,457,Overall,77.8
+214,2016,Ohio,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,66.1,56.8,75.4,189,Male,77.8
+215,2016,Ohio,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,76.0,68.4,83.6,268,Female,77.8
+216,2016,Oklahoma,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,40.8,33.3,48.3,295,Overall,82.5
+217,2016,Oklahoma,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,41.9,30.7,53.1,127,Male,82.5
+218,2016,Oklahoma,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.1,30.0,48.2,168,Female,82.5
+219,2016,Oklahoma,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,59.2,51.7,66.7,295,Overall,82.5
+220,2016,Oklahoma,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,58.1,46.9,69.3,127,Male,82.5
+221,2016,Oklahoma,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.9,51.8,70.0,168,Female,82.5
+222,2016,Oregon,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,25.7,18.7,32.7,189,Overall,92.5
+223,2016,Oregon,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,27.0,17.7,36.3,107,Male,92.5
+224,2016,Oregon,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,23.4,13.1,33.7,82,Female,92.5
+225,2016,Oregon,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,74.3,67.3,81.3,189,Overall,92.5
+226,2016,Oregon,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,73.0,63.7,82.3,107,Male,92.5
+227,2016,Oregon,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,76.6,66.3,86.9,82,Female,92.5
+228,2016,Pennsylvania,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,31.3,24.1,38.5,240,Overall,82.8
+229,2016,Pennsylvania,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,35.2,24.9,45.5,119,Male,82.8
+230,2016,Pennsylvania,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,26.5,16.7,36.3,121,Female,82.8
+231,2016,Pennsylvania,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,68.7,61.5,75.9,240,Overall,82.8
+232,2016,Pennsylvania,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,64.8,54.5,75.1,119,Male,82.8
+233,2016,Pennsylvania,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,73.5,63.7,83.3,121,Female,82.8
+234,2016,Rhode Island,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.1,15.3,32.9,177,Overall,87.3
+235,2016,Rhode Island,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,28.1,15.3,40.9,93,Male,87.3
+236,2016,Rhode Island,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,17.4,7.6,27.2,84,Female,87.3
+237,2016,Rhode Island,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.9,67.1,84.7,177,Overall,87.3
+238,2016,Rhode Island,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.9,59.1,84.7,93,Male,87.3
+239,2016,Rhode Island,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,82.6,72.8,92.4,84,Female,87.3
+240,2016,South Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,39.7,32.8,46.6,346,Overall,83.0
+241,2016,South Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,47.8,37.8,57.8,149,Male,83.0
+242,2016,South Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.7,21.7,39.7,197,Female,83.0
+243,2016,South Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,60.3,53.4,67.2,346,Overall,83.0
+244,2016,South Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,52.2,42.2,62.2,149,Male,83.0
+245,2016,South Carolina,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.3,60.3,78.3,197,Female,83.0
+246,2016,South Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,21.0,10.0,32.0,119,Overall,85.4
+247,2016,South Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,18.9,5.3,32.5,55,Male,85.4
+248,2016,South Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,23.7,5.9,41.5,64,Female,85.4
+249,2016,South Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,79.0,68.0,90.0,119,Overall,85.4
+250,2016,South Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,81.1,67.5,94.7,55,Male,85.4
+251,2016,South Dakota,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,76.3,58.5,94.1,64,Female,85.4
+252,2016,Tennessee,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.9,28.6,45.2,261,Overall,80.5
+253,2016,Tennessee,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,37.0,25.5,48.5,131,Male,80.5
+254,2016,Tennessee,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.9,25.4,48.4,130,Female,80.5
+255,2016,Tennessee,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.1,54.8,71.4,261,Overall,80.5
+256,2016,Tennessee,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.0,51.5,74.5,131,Male,80.5
+257,2016,Tennessee,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.1,51.6,74.6,130,Female,80.5
+258,2016,Texas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.7,30.4,47.0,357,Overall,89.0
+259,2016,Texas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,40.3,29.8,50.8,199,Male,89.0
+260,2016,Texas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.8,22.0,47.6,158,Female,89.0
+261,2016,Texas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,61.3,53.0,69.6,357,Overall,89.0
+262,2016,Texas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,59.7,49.2,70.2,199,Male,89.0
+263,2016,Texas,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.2,52.4,78.0,158,Female,89.0
+264,2016,Utah,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,45.2,38.7,51.7,352,Overall,95.4
+265,2016,Utah,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,46.8,38.4,55.2,198,Male,95.4
+266,2016,Utah,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,43.0,32.9,53.1,154,Female,95.4
+267,2016,Utah,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,54.8,48.3,61.3,352,Overall,95.4
+268,2016,Utah,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,53.2,44.8,61.6,198,Male,95.4
+269,2016,Utah,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,57.0,46.9,67.1,154,Female,95.4
+270,2016,Vermont,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.7,19.3,40.1,147,Overall,87.7
+271,2016,Vermont,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,21.2,11.2,31.2,79,Male,87.7
+272,2016,Vermont,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,45.4,26.9,63.9,68,Female,87.7
+273,2016,Vermont,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.3,59.9,80.7,147,Overall,87.7
+274,2016,Vermont,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,78.8,68.8,88.8,79,Male,87.7
+275,2016,Vermont,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,54.6,36.1,73.1,68,Female,87.7
+276,2016,Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.5,24.5,36.5,314,Overall,86.8
+277,2016,Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,34.4,26.3,42.5,172,Male,86.8
+278,2016,Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,24.3,15.8,32.8,142,Female,86.8
+279,2016,Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.5,63.5,75.5,314,Overall,86.8
+280,2016,Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,65.6,57.5,73.7,172,Male,86.8
+281,2016,Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,75.7,67.2,84.2,142,Female,86.8
+282,2016,Washington,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,35.2,30.0,40.4,507,Overall,91.0
+283,2016,Washington,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,38.0,31.3,44.7,293,Male,91.0
+284,2016,Washington,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,30.4,22.7,38.1,214,Female,91.0
+285,2016,Washington,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,64.8,59.6,70.0,507,Overall,91.0
+286,2016,Washington,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,62.0,55.3,68.7,293,Male,91.0
+287,2016,Washington,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,69.6,61.9,77.3,214,Female,91.0
+288,2016,West Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,37.5,30.3,44.7,262,Overall,72.9
+289,2016,West Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,42.1,31.6,52.6,120,Male,72.9
+290,2016,West Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,32.7,23.3,42.1,142,Female,72.9
+291,2016,West Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,62.5,55.3,69.7,262,Overall,72.9
+292,2016,West Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,57.9,47.4,68.4,120,Male,72.9
+293,2016,West Virginia,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,67.3,57.9,76.7,142,Female,72.9
+294,2016,Wisconsin,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.6,20.9,38.3,174,Overall,84.4
+295,2016,Wisconsin,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.7,24.4,49.0,97,Male,84.4
+296,2016,Wisconsin,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,17.9,7.2,28.6,77,Female,84.4
+297,2016,Wisconsin,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,70.4,61.7,79.1,174,Overall,84.4
+298,2016,Wisconsin,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.3,51.0,75.6,97,Male,84.4
+299,2016,Wisconsin,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,82.1,71.4,92.8,77,Female,84.4
+300,2016,Wyoming,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,36.2,25.1,47.3,141,Overall,83.7
+301,2016,Wyoming,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,41.9,26.4,57.4,65,Male,83.7
+302,2016,Wyoming,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Every Day,29.0,14.6,43.4,76,Female,83.7
+303,2016,Wyoming,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,63.8,52.7,74.9,141,Overall,83.7
+304,2016,Wyoming,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,58.1,42.6,73.6,65,Male,83.7
+305,2016,Wyoming,BRFSS,E-Cigarette Use (Adults),Frequency of Use,Some Days,71.0,56.6,85.4,76,Female,83.7
