@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #007BFF;
+        }
+
+        .weather-container {
+            border: 2px solid #007BFF;
+            border-radius: 10px;
+            padding: 20px;
+            width: 300px;
+            margin: 50px auto;
+            background-color: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .city-form {
+            margin-top: 20px;
+        }
+
+        .city-input {
+            padding: 5px;
+            width: 200px;
+        }
+
+        .submit-btn {
+            padding: 5px 10px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        .weather-info {
+            margin-top: 20px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="weather-container">
+        <h1>Weather Information</h1>
+        <form class="city-form" action="/" method="post">
+            <input type="text" class="city-input" name="city" placeholder="Enter city name">
+            <button type="submit" class="submit-btn">Get Weather</button>
+        </form>
+
+        <div class="weather-info">
+            {% for weather in mydata %}
+                <h3>{{ weather.city }}</h3>
+                <p>Temperature: {{ weather.temperature }}°C</p>
+                <p>Weather Condition: {{ weather.condition }}</p>
+                <hr>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
+
+
+
