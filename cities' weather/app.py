@@ -53,4 +53,5 @@ if __name__ == '__main__':
     with app.app_context():
         # Create the database tables
         db.create_all()
+        db.session.commit()
     app.run()
