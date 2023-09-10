@@ -3,3 +3,7 @@ wordneighbor: This project mainly uses c++, object oriented design, graph and BF
 
 
 data science projects: Those projects are done at UCSB data science classes. They mainly target on using python and jupyter notebook to perform data analysis and data cleaning. Extensive use of plotting techniques are envolved.
+
+Cities' weather: It uses Python flask, html and json file to integrate with weather website api to extract the real-time weather condition based on user's input locations.
+
+
