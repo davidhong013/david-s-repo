@@ -5,6 +5,7 @@ const bcrypt = require("bcryptjs");
 const jwt = require('jsonwebtoken');
 const mongoose= require("mongoose");
 const CookieParser = require('cookie-parser');
+const imageDownloader = require('image-downloader');
 require('dotenv').config()
 const app = express();
 const bcrypt_salt = bcrypt.genSaltSync(5);
@@ -44,16 +45,15 @@ app.post('/login', async (req,res) => {
     if(userDoc){
         const passwordValidate =bcrypt.compareSync(password,userDoc.password);
         if(passwordValidate){
+            const oneDayInSeconds = 60 * 6; // 24 hours in seconds
+            const expirationDate = new Date(Date.now() + oneDayInSeconds * 1000);
             jwt.sign({
                 email:userDoc.email,
                 id:userDoc._id},
                 jwtSecret,{},
                 (err,token) => {
                 if(err){throw err;}
-                res.cookie('token',
-                    token,
-                    {sameSite : 'none',secure:false}
-                ).json(userDoc);
+                res.cookie('token', token,{}).json(userDoc);
             });
 
         }else {
@@ -75,5 +75,19 @@ app.get('/profile',(req,res) => {
     }else{
         res.json(null);
     }
+})
+
+app.post('/logout',(req,res) => {
+    res.cookie('token','').json(true);
+})
+
+app.post('/upload-by-link',async (req,res) => {
+    const {link} = req.body;
+    const newName = Date.now() + '.jpg';
+    await imageDownloader.image({
+        url:link,
+        dest : __dirname + '/upload/' + newName
+    });
+    res.json(__dirname + '/upload/' + newName);
 })
 app.listen(4000);
