@@ -94,4 +94,4 @@ lerna-debug.log
 .DS_Store
 Thumbs.db
 
-airbnb\ clone/api/upload/*
+airbnb\ clone/api/upload/
