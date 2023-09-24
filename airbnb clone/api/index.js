@@ -6,13 +6,18 @@ const jwt = require('jsonwebtoken');
 const mongoose= require("mongoose");
 const CookieParser = require('cookie-parser');
 const imageDownloader = require('image-downloader');
+const multer = require('multer');
+const fs = require('fs');
+
 require('dotenv').config()
 const app = express();
 const bcrypt_salt = bcrypt.genSaltSync(5);
 const jwtSecret = 'Tinhangwillbecomeasde';
 
+
 app.use(express.json());
 app.use(CookieParser());
+app.use('/upload',express.static(__dirname + '/upload'));
 app.use(cors({
     credentials:true,
     origin: 'http://localhost:5173'
@@ -83,11 +88,25 @@ app.post('/logout',(req,res) => {
 
 app.post('/upload-by-link',async (req,res) => {
     const {link} = req.body;
-    const newName = Date.now() + '.jpg';
+    const newName = 'photo'+Date.now() + '.jpg';
     await imageDownloader.image({
         url:link,
         dest : __dirname + '/upload/' + newName
     });
-    res.json(__dirname + '/upload/' + newName);
+    res.json(newName);
 })
+
+const photoMiddleware = multer({dest:'upload/'})
+app.post('/upload-user-photo',photoMiddleware.array('photos',100),(req,res) => {
+    const uploadedFiles = [];
+    for(let i = 0;i<req.files.length;++i){
+        const {path,originalname} = req.files[i];
+        const parts = originalname.split('.');
+        const ext = parts[parts.length-1];
+        const newPath = path + '.' +ext;
+        fs.renameSync(path,newPath);
+        uploadedFiles.push(newPath.replace('upload/',''));
+    }
+    res.json(uploadedFiles);
+});
 app.listen(4000);
