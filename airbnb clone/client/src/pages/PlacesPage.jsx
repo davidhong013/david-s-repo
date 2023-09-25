@@ -5,11 +5,13 @@ import axios from "axios";
 import PhotosUploader from "../PhotosUploader.jsx";
 import PlacesFormPage from "./PlacesFormPage.jsx";
 import AccountNav from "../AccountNav.jsx";
-
+import config from "./config.jsx";
+import PlaceImg from "../PlaceImg.jsx";
+const backendurl = config.development.backendUrl + '/upload/'
 export default function PlacesPage(){
     const [places,setPlaces] = useState([]);
     useEffect(() => {
-        axios.get('/places',).then(({data}) => {
+        axios.get('/user-places',).then(({data}) => {
             setPlaces(data);
         })
     }, []);
@@ -28,10 +30,8 @@ export default function PlacesPage(){
                     <div className="mt-4">
                         {places.length > 0 && places.map(place => (
                             <Link to={"/account/places/" + place._id} className="bg-gray-100 cursor-pointer p-4 gap-4 rounded-2xl flex">
-                                <div className="w-32 h-32 bg-gray-300">
-                                    {place.photos.length > 0 && (
-                                        <img src={place.photos[0]} alt=""/>
-                                    )}
+                                <div className="flex w-32 h-32 bg-gray-300">
+                                    <PlaceImg place={place}/>
                                 </div>
                                 <div className="shrink">
                                     <h2 className="text-xl">{place.title}</h2>

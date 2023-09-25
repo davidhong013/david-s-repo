@@ -2,6 +2,7 @@ const express = require('express')
 const cors = require('cors');
 const User = require("./models/User.js");
 const Place = require("./models/Place.js");
+const Booking = require("./models/Booking");
 const bcrypt = require("bcryptjs");
 const jwt = require('jsonwebtoken');
 const mongoose= require("mongoose");
@@ -24,6 +25,17 @@ app.use(cors({
     origin: 'http://localhost:5173'
 }));
 mongoose.connect(process.env.MONGO_URL)
+
+function getUserFromReq(req){
+    return new Promise((resolve,reject) => {
+        jwt.verify(req.cookies.token,jwtSecret,{},async (err,userData) => {
+            if(err) throw err;
+            resolve(userData);
+        });
+    })
+
+
+}
 app.get('/test', (req,res) =>{
     res.json("test ok")
 });
@@ -51,8 +63,6 @@ app.post('/login', async (req,res) => {
     if(userDoc){
         const passwordValidate =bcrypt.compareSync(password,userDoc.password);
         if(passwordValidate){
-            const oneDayInSeconds = 60 * 6; // 24 hours in seconds
-            const expirationDate = new Date(Date.now() + oneDayInSeconds * 1000);
             jwt.sign({
                 email:userDoc.email,
                 id:userDoc._id},
@@ -66,7 +76,7 @@ app.post('/login', async (req,res) => {
             res.status(422).json("password is wrong");
         }
     }else{
-        res.json('not found');
+        res.status(422).json("email is not found");
     }
 })
 
@@ -115,24 +125,74 @@ app.post('/places',(req,res) => {
     const {token} = req.cookies;
     const {
         title,address,addedPhotos,description,
-        perks,checkIn,checkOut,maxGuests
+        perks,checkIn,checkOut,maxGuests,price
         } = req.body;
     jwt.verify(token,jwtSecret,{},async (err,userData) => {
         if(err) {throw err;}
         const placeDoc = await Place.create({
             owner:userData.id,
             title,address,photos:addedPhotos,description,
-            perks,checkIn,checkOut,maxGuests
+            perks,checkIn,checkOut,maxGuests,price
         });
         res.json(placeDoc);
     })
 })
 
-app.get('/places',(req,res) => {
+app.get('/user-places',(req,res) => {
     const {token} = req.cookies;
     jwt.verify(token,jwtSecret,{},async (err,userData) => {
-        const {id} = userData;
-        res.json(await Place.find({owner : id}));
+        // const id = userData.id;
+        res.json(await Place.find({owner : userData.id}));
         });
+})
+
+app.get('/places/:id',async (req, res) => {
+    const {id} = req.params;
+    res.json(await Place.findById(id));
+});
+
+app.put('/places', async (req,res)=>{
+    const {token} = req.cookies;
+    const {
+        id,title,address,addedPhotos,description,
+        perks,checkIn,checkOut,maxGuests,price
+    } = req.body;
+    jwt.verify(token,jwtSecret,{},async (err,userData) => {
+        if(err) throw err;
+        const placeDoc = await Place.findById(id);
+
+        if(userData.id === placeDoc.owner.toString()){
+            placeDoc.set({
+                title,address,photos:addedPhotos,description,
+                perks,checkIn,checkOut,maxGuests,price
+            })
+            await placeDoc.save();
+            res.json('ok');
+        }
+    });
+});
+
+app.get('/places',async (req,res) => {
+    res.json(await Place.find());
+})
+
+
+app.post('/booking', async (req,res) => {
+    const userData = await getUserFromReq(req);
+    const {
+        place,checkin,checkout, numofGuests,name,phone,price} = req.body;
+    Booking.create({
+        place,checkin,checkout, numofGuests,name,phone,price,user:userData.id
+    }).then((doc) => {
+        res.json(doc);
+    }).catch((err) => {
+        throw err;
+    });
+})
+
+
+app.get('/bookings',async (req,res)=>{
+    const userData = await getUserFromReq(req);
+    res.json(await Booking.find({user:userData.id}).populate('place'));
 })
 app.listen(4000);

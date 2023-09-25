@@ -12,23 +12,23 @@ export default function Perks({selected,onChange}){
     return (
         <>
             <label className="border p-4 flex rounded-2xl gap-2 items-center">
-                <input type="checkbox" name="Wifi" onChange={handleCbClick}/>
+                <input type="checkbox" checked={selected.includes("Wifi")} name="Wifi" onChange={handleCbClick}/>
                 <span>Wifi</span>
             </label>
             <label className="border p-4 flex rounded-2xl gap-2 items-center">
-                <input type="checkbox" name="Parking" onChange={handleCbClick}/>
+                <input type="checkbox" checked={selected.includes("Parking")} name="Parking" onChange={handleCbClick}/>
                 <span>Free Parking</span>
             </label>
             <label className="border p-4 flex rounded-2xl gap-2 items-center">
-                <input type="checkbox" name="Pets" onChange={handleCbClick}/>
+                <input type="checkbox" checked={selected.includes("Pets")} name="Pets" onChange={handleCbClick}/>
                 <span>Pets</span>
             </label>
             <label className="border p-4 flex rounded-2xl gap-2 items-center">
-                <input type="checkbox" name="Gym" onChange={handleCbClick}/>
+                <input type="checkbox" checked={selected.includes("Gym")} name="Gym" onChange={handleCbClick}/>
                 <span>Gym</span>
             </label>
             <label className="border p-4 flex rounded-2xl gap-2 items-center">
-                <input type="checkbox" name="Bathtub" onChange={handleCbClick}/>
+                <input type="checkbox" checked={selected.includes("Bathtub")} name="Bathtub" onChange={handleCbClick}/>
                 <span>Bathtub</span>
             </label>
         </>
