@@ -15,7 +15,7 @@ require('dotenv').config()
 const app = express();
 const bcrypt_salt = bcrypt.genSaltSync(5);
 const jwtSecret = 'Tinhangwillbecomeasde';
-
+var ObjectId = require('mongoose').Types.ObjectId;
 
 app.use(express.json());
 app.use(CookieParser());
@@ -181,13 +181,17 @@ app.post('/booking', async (req,res) => {
     const userData = await getUserFromReq(req);
     const {
         place,checkin,checkout, numofGuests,name,phone,price} = req.body;
-    Booking.create({
-        place,checkin,checkout, numofGuests,name,phone,price,user:userData.id
-    }).then((doc) => {
-        res.json(doc);
-    }).catch((err) => {
-        throw err;
-    });
+        Booking.create({
+            place,checkin,checkout, numofGuests,name,phone,price,user:userData.id
+        }).then((doc) => {
+            res.json(doc);
+        }).catch((err) => {
+            try {
+                throw err; // Throw the error for the outer catch block to handle
+            } catch (error) {
+                res.status(422).json("booked the apartment wrong");
+            }
+        });
 })
 
 
@@ -195,4 +199,15 @@ app.get('/bookings',async (req,res)=>{
     const userData = await getUserFromReq(req);
     res.json(await Booking.find({user:userData.id}).populate('place'));
 })
+
+app.delete('/bookings/:id', async (req,res) => {
+    let {id} = req.params;
+    const CurrBooking = await Booking.findById(id);
+    if(CurrBooking){
+        await Booking.deleteOne({_id : id});
+        res.json("deleted succefully");
+    }else{
+        res.status(422).json("the booking is not found");
+    }
+});
 app.listen(4000);

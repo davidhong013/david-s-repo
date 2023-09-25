@@ -23,13 +23,21 @@ export default function BookingComponent({myplace}){
     if(checkin && checkout){
         numberofNights = differenceInCalendarDays(new Date(checkout),new Date(checkin));
     }
-    async function bookThisPlace(){
+    function bookThisPlace(){
         const data = {
             checkin,checkout,numofGuests,name,phone,
             place:myplace._id,price:numberofNights * myplace.price};
-        const response = await axios.post('/booking',data);
-        const bookingId = response.data._id;
-        setRedirect(`/account/bookings/${bookingId}`);
+        axios.post('/booking',data)
+            .then(response => {
+                const bookingId = response.data._id;
+                setRedirect(`/account/bookings/${bookingId}`);
+            })
+            .catch((err) => {
+                console.log(err);
+                alert('please provide everything needed');
+            });
+
+
     }
 
     if(redirect){
