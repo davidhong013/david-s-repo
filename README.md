@@ -1,4 +1,6 @@
 # david-s-repo
+Airbnb clone: This is a full stack web project that mimics the functions of airbnb. It utilizes React as the front end, and express.js and Mongodb as the backend servers. The app utilizes three collections of databases to store different kinds of data. To start the program locally, you can use yarn as your package manager and add required packages accoordingly.
+
 wordneighbor: This project mainly uses c++, object oriented design, graph and BFS to complete. It targets on finding the shortest path between each word where a path is defined by two words only differentiated by one character. It also has a makefile that is convient to compile.
 
 
